@@ -1,0 +1,1003 @@
+Stadium,Weather,Temperature,Humidity,Pitch Type,Match Format,Average Runs,Spin Friendly,Seam Friendly,Bounce,Grass Cover,Pitch Prediction
+SCG,Rainy,38.3,63.9,Green,Test,357.8,False,False,2.8,21.7,Balanced
+Wankhede Stadium,Sunny,24.4,86.0,Cracked,T20,369.93803126813856,True,False,4.302658256824107,32.394352711484494,High Runs
+Lords,Cloudy,38.9,37.5,Flat,ODI,244.15843195098327,True,True,4.987870275239521,3.616561227227063,High Runs
+MCG,Sunny,19.5,77.5,Green,T20,378.06215082601307,False,True,3.2026679719080624,38.20783879671282,High Runs
+Eden Gardens,Overcast,35.2,60.3,Dry,ODI,228.3,False,False,5.2,30.7,Balanced
+Lords,Windy,34.0,66.8,Green,T20,384.3019345648017,False,True,3.9897473227374993,16.412261898003486,High Runs
+Eden Gardens,Cloudy,19.8,50.1,Cracked,Test,444.1194260759194,True,False,4.400608835196829,23.002444975391192,High Runs
+Wankhede Stadium,Windy,23.4,65.7,Green,ODI,374.5,True,False,5.5,36.2,Balanced
+SCG,Rainy,33.5,74.7,Flat,ODI,300.4208160547637,True,True,1.9440008403867535,1.847070921093417,High Runs
+Lords,Windy,28.3,45.5,Dusty,Test,194.8,True,False,5.1,13.9,Balanced
+SCG,Cloudy,23.1,63.5,Dusty,ODI,408.6753180482157,False,True,2.233440278226161,37.233262513949825,High Runs
+Adelaide Oval,Windy,15.8,81.1,Cracked,Test,350.6,False,True,3.9,44.5,Balanced
+Adelaide Oval,Overcast,17.7,32.0,Flat,T20,350.10458061080175,False,False,4.882899223094268,29.410957964825904,High Runs
+SCG,Rainy,34.4,77.8,Cracked,ODI,395.6972557063119,True,False,3.815749632759449,41.76286954918879,High Runs
+MCG,Overcast,35.7,77.8,Flat,T20,277.1455006826092,False,False,6.693668648336162,56.03419111649926,Low Runs
+SCG,Overcast,36.1,65.0,Cracked,ODI,146.18729800956874,True,True,3.2052407937573446,60.44991458407205,Low Runs
+Wankhede Stadium,Rainy,28.1,33.8,Green,Test,202.0,False,True,2.2,33.0,Balanced
+Wankhede Stadium,Windy,23.7,39.9,Cracked,T20,228.7060528927245,False,True,4.655326567429576,56.33313126946568,Low Runs
+Wankhede Stadium,Overcast,19.3,72.8,Dry,Test,255.44993000612774,False,False,4.493277960409986,29.389529246539922,High Runs
+MCG,Windy,37.8,38.0,Flat,Test,259.5,False,True,2.2,26.3,Balanced
+MCG,Cloudy,20.4,58.1,Green,T20,225.82946179607117,True,True,1.5944671129548487,8.491315819921903,High Runs
+Adelaide Oval,Windy,38.7,76.6,Dry,Test,379.3,False,False,4.0,32.9,Balanced
+Adelaide Oval,Windy,16.6,84.4,Dusty,ODI,316.0,True,True,4.5,35.3,Balanced
+Lords,Rainy,27.7,84.4,Cracked,T20,281.9,False,False,3.1,20.0,Balanced
+Eden Gardens,Windy,15.3,75.1,Dry,T20,330.5,False,True,2.2,45.6,Balanced
+Lords,Windy,33.1,78.3,Green,Test,293.5,False,True,3.9,48.5,Balanced
+Lords,Cloudy,20.3,33.6,Green,ODI,312.9,True,True,2.3,35.3,Balanced
+MCG,Overcast,38.4,70.1,Green,T20,266.1122170930211,False,False,4.2679927988554525,26.954615027549,Low Runs
+SCG,Sunny,22.1,44.3,Cracked,Test,152.97409635234555,True,False,5.832286160303851,51.99219208412893,Low Runs
+Eden Gardens,Rainy,34.7,38.6,Dusty,Test,123.99751955800205,False,False,3.231706168804652,26.700758918860046,Low Runs
+MCG,Sunny,19.8,70.0,Dusty,Test,388.4,True,False,3.7,49.1,Balanced
+Lords,Cloudy,32.8,47.3,Flat,ODI,202.0,True,False,4.8,34.8,Balanced
+SCG,Overcast,19.1,36.7,Flat,ODI,282.87647727111096,False,False,1.666976196964165,20.384622033297124,High Runs
+Wankhede Stadium,Rainy,27.0,48.9,Flat,T20,373.6,True,True,3.6,17.8,Balanced
+Adelaide Oval,Sunny,26.7,32.3,Cracked,ODI,265.0,False,False,4.2,30.3,Balanced
+MCG,Overcast,19.4,56.1,Cracked,T20,261.5,True,True,2.2,37.0,Balanced
+Eden Gardens,Cloudy,18.3,39.5,Cracked,T20,444.1806919460511,False,False,0.9884857783222283,15.871958168696507,High Runs
+SCG,Windy,19.4,56.1,Dusty,ODI,452.9720549743972,True,True,4.987828168423949,37.080893902718685,High Runs
+Eden Gardens,Rainy,31.9,88.8,Dusty,Test,161.29886999135977,False,False,5.163402219018959,37.11246007912996,Low Runs
+Adelaide Oval,Windy,19.4,71.7,Dusty,Test,326.8,False,True,2.5,49.1,Balanced
+MCG,Windy,30.9,51.5,Dry,T20,175.4,True,True,3.7,44.9,Balanced
+Lords,Windy,18.0,39.3,Green,Test,346.6,False,True,6.0,34.6,Balanced
+Lords,Overcast,18.9,57.0,Flat,ODI,370.1,False,False,4.3,34.6,Balanced
+MCG,Rainy,27.4,52.2,Dusty,ODI,208.90474382029385,False,False,5.679306527218527,25.047365445712092,Low Runs
+Wankhede Stadium,Overcast,33.9,44.6,Flat,Test,363.6,False,True,3.6,11.6,Balanced
+Eden Gardens,Cloudy,27.5,39.6,Cracked,ODI,304.2,True,False,4.0,47.6,Balanced
+Adelaide Oval,Windy,19.1,47.7,Cracked,ODI,181.48606036395728,True,False,5.617641700964427,44.32715186781006,Low Runs
+Wankhede Stadium,Cloudy,21.1,35.4,Green,T20,347.5051388919559,True,True,1.841514027124084,16.8591719858766,High Runs
+Wankhede Stadium,Windy,34.1,47.3,Dry,T20,214.4,False,False,4.8,46.8,Balanced
+Wankhede Stadium,Overcast,28.6,64.9,Green,T20,126.6083407280284,True,False,3.8774386109457346,28.788871294725563,Low Runs
+Lords,Cloudy,26.2,50.9,Cracked,Test,285.2039931854164,False,False,2.5217739368833465,33.503847324791494,High Runs
+MCG,Rainy,32.4,80.0,Dry,T20,311.49870398503293,False,True,6.168576586978319,34.82617126813157,Low Runs
+Adelaide Oval,Windy,29.3,74.4,Cracked,ODI,337.6,True,True,6.0,21.0,Balanced
+Adelaide Oval,Cloudy,34.8,67.3,Dry,ODI,453.37737347759946,True,True,2.281555900612205,3.547609151726606,High Runs
+Adelaide Oval,Sunny,27.5,76.6,Dusty,ODI,341.4,True,False,5.9,11.8,Balanced
+Adelaide Oval,Cloudy,22.4,46.9,Green,Test,384.7,False,False,4.7,47.1,Balanced
+Wankhede Stadium,Sunny,26.4,57.4,Dusty,ODI,251.404106087819,False,True,1.8632781699260894,14.995197218015512,High Runs
+Wankhede Stadium,Windy,25.1,55.2,Green,T20,161.0,True,False,2.9,17.7,Balanced
+Eden Gardens,Cloudy,17.8,54.3,Dry,Test,281.6,True,True,4.5,44.8,Balanced
+Wankhede Stadium,Sunny,19.6,80.8,Green,ODI,357.69123771114346,False,False,4.528069576586991,31.1187238140932,High Runs
+Lords,Cloudy,24.3,41.6,Dusty,Test,260.3,False,True,3.5,11.2,Balanced
+Eden Gardens,Windy,34.7,43.3,Dusty,Test,204.2,True,True,4.2,42.3,Balanced
+Eden Gardens,Sunny,21.9,45.0,Flat,ODI,301.68264537915707,False,True,4.595564441644946,23.86383658235104,High Runs
+Wankhede Stadium,Sunny,23.7,64.8,Dusty,T20,198.9,False,False,3.4,21.0,Balanced
+Wankhede Stadium,Overcast,21.2,84.0,Dry,Test,433.1846473693421,True,True,3.3327680109493407,30.03906735431004,High Runs
+Adelaide Oval,Windy,23.3,33.2,Green,Test,470.19033367777723,False,False,4.236640433391227,24.063416951325582,High Runs
+SCG,Windy,17.6,84.6,Dusty,ODI,287.45771774354574,False,True,3.5617135496948222,34.8977213033014,High Runs
+SCG,Overcast,39.8,60.6,Flat,Test,248.8094215332073,False,False,5.1632059548598335,43.10802810688862,Low Runs
+Lords,Overcast,15.5,44.3,Dusty,T20,352.1,True,True,4.9,38.0,Balanced
+Wankhede Stadium,Rainy,39.9,68.4,Dusty,ODI,480.2953474719787,False,False,3.5481965248997396,25.629255788525526,High Runs
+Adelaide Oval,Sunny,35.1,66.7,Green,Test,175.5,True,True,4.8,36.7,Balanced
+SCG,Cloudy,32.6,42.5,Dusty,T20,334.3,False,True,5.9,32.9,Balanced
+Eden Gardens,Windy,15.5,67.0,Dusty,T20,178.85476713581076,True,True,5.074434187140539,37.832415292632206,Low Runs
+SCG,Sunny,32.8,58.7,Dusty,ODI,219.319521259292,False,True,1.4834562565522156,14.768761004216467,High Runs
+Lords,Cloudy,34.5,40.3,Dry,T20,252.0,False,False,5.6,49.6,Balanced
+SCG,Cloudy,37.8,71.3,Cracked,ODI,213.7,False,False,4.4,10.5,Balanced
+Wankhede Stadium,Overcast,25.4,70.6,Flat,T20,325.5554565983126,False,True,1.8335507278050458,13.571418557841787,High Runs
+Wankhede Stadium,Windy,19.2,84.6,Cracked,ODI,276.3,False,True,4.8,20.3,Balanced
+MCG,Overcast,31.9,60.7,Dry,ODI,300.8395556776056,True,False,2.466346555621359,39.12636989515612,High Runs
+MCG,Overcast,25.2,87.3,Flat,Test,155.9,False,False,2.0,27.3,Balanced
+Wankhede Stadium,Overcast,27.6,39.4,Dry,T20,247.36031451049075,False,False,5.23308867109164,33.69434523516004,High Runs
+Eden Gardens,Sunny,27.5,78.5,Flat,T20,349.5,False,True,2.9,45.0,Balanced
+MCG,Sunny,16.6,63.6,Dusty,Test,165.3,False,True,4.2,39.0,Balanced
+Adelaide Oval,Overcast,17.7,59.2,Dry,T20,227.7,False,False,4.4,40.8,Balanced
+SCG,Overcast,23.9,49.3,Flat,Test,166.6,True,True,3.1,20.9,Balanced
+Lords,Windy,21.2,71.0,Flat,Test,247.85200688758755,True,True,3.9972069661104896,4.660620862645468,High Runs
+Wankhede Stadium,Windy,21.3,69.6,Cracked,T20,259.8665903302926,True,False,5.381265281434917,28.129646635309392,Low Runs
+Eden Gardens,Windy,28.2,86.3,Dry,ODI,458.6516706126074,True,False,3.382895503765853,16.562098685554226,High Runs
+Adelaide Oval,Sunny,37.9,86.3,Dry,T20,282.90140483478757,False,True,1.774388223815646,35.20960997510009,High Runs
+Wankhede Stadium,Sunny,28.7,30.9,Dusty,T20,234.1,True,False,4.7,44.1,Balanced
+Wankhede Stadium,Cloudy,19.2,59.9,Dry,Test,164.5,True,False,4.4,15.5,Balanced
+MCG,Rainy,31.4,39.8,Dusty,ODI,264.0,True,False,4.2,40.9,Balanced
+Lords,Rainy,36.4,80.6,Cracked,T20,154.2,False,True,2.2,24.6,Balanced
+Lords,Sunny,25.4,32.3,Flat,T20,306.7,True,False,3.9,23.4,Balanced
+Eden Gardens,Rainy,18.1,55.5,Cracked,Test,352.6696390723991,False,True,3.491523209824262,18.798210275244042,High Runs
+SCG,Cloudy,28.3,71.2,Dry,Test,166.9,True,True,5.1,14.0,Balanced
+Eden Gardens,Windy,21.7,65.8,Dry,T20,95.57811340730728,False,True,3.7433022562007543,26.151122471600996,Low Runs
+Adelaide Oval,Sunny,39.9,88.8,Dry,ODI,201.3,True,False,5.1,20.9,Balanced
+Adelaide Oval,Overcast,22.7,39.3,Dry,ODI,375.2,True,True,2.1,21.6,Balanced
+Lords,Overcast,19.2,69.4,Green,ODI,143.22494611776006,False,False,6.576004211582256,52.14221607164281,Low Runs
+SCG,Cloudy,32.4,75.0,Dry,T20,329.70081158254135,True,False,2.3065339236403606,39.110793049454344,High Runs
+Adelaide Oval,Rainy,20.9,72.5,Dry,ODI,334.2,True,True,4.8,29.0,Balanced
+Wankhede Stadium,Windy,15.7,42.5,Green,T20,357.53168836677895,False,False,5.031896018813381,13.924982173279208,High Runs
+SCG,Sunny,19.3,83.3,Dusty,ODI,313.8,True,False,5.4,47.4,Balanced
+SCG,Windy,35.2,49.5,Flat,T20,446.8578906017443,True,False,4.530367494937642,19.779092048893187,High Runs
+Wankhede Stadium,Sunny,39.2,58.0,Dry,T20,111.81022463060685,False,False,5.768806134845197,17.560511958285296,Low Runs
+SCG,Overcast,19.5,79.1,Green,T20,371.67046103227256,False,True,1.7318934516401883,35.20669080813484,High Runs
+Wankhede Stadium,Sunny,20.7,86.1,Green,T20,94.84153139185776,True,True,4.490229615174742,28.73300898672526,Low Runs
+MCG,Windy,33.0,69.8,Green,ODI,385.5,False,False,4.8,47.2,Balanced
+Wankhede Stadium,Rainy,37.8,51.4,Cracked,T20,129.88941105797397,False,False,4.396682801820119,27.237852719202813,Low Runs
+SCG,Rainy,23.8,53.4,Cracked,ODI,186.0,True,False,3.0,30.8,Balanced
+Lords,Overcast,16.3,74.5,Dusty,T20,220.60737165971437,False,False,4.785955008864112,26.87610015577248,High Runs
+Lords,Sunny,32.5,54.5,Cracked,T20,265.9769269394043,True,True,6.814044132141469,47.315433892286435,Low Runs
+MCG,Cloudy,35.5,56.0,Green,Test,164.1215572600891,False,False,6.691897064429993,30.22265037025211,Low Runs
+SCG,Rainy,30.6,61.6,Flat,Test,191.6,False,True,5.3,18.4,Balanced
+Eden Gardens,Rainy,15.5,45.4,Cracked,T20,329.8,False,True,5.0,41.6,Balanced
+Eden Gardens,Windy,20.8,35.5,Dusty,ODI,304.9,True,True,4.7,22.4,Balanced
+Wankhede Stadium,Overcast,29.0,38.6,Dusty,ODI,164.38975784952166,False,True,5.693360339832367,50.21866170359974,Low Runs
+SCG,Windy,18.6,60.0,Dry,ODI,153.8,True,True,4.9,20.3,Balanced
+MCG,Sunny,37.6,57.0,Flat,Test,398.3,False,False,4.8,48.0,Balanced
+Adelaide Oval,Rainy,37.7,35.1,Dusty,Test,310.4919998784472,False,True,5.536606150751244,54.00361970109679,Low Runs
+SCG,Sunny,28.8,60.7,Green,Test,270.5,True,False,4.6,20.9,Balanced
+Lords,Windy,19.9,65.4,Flat,Test,240.16564083818713,True,False,4.135793716254025,14.610522749389403,High Runs
+MCG,Cloudy,22.5,64.0,Dusty,T20,178.2,True,False,5.6,44.5,Balanced
+Adelaide Oval,Sunny,18.5,89.9,Dusty,ODI,258.7,True,False,4.8,44.1,Balanced
+Eden Gardens,Cloudy,18.1,56.3,Flat,ODI,274.61150386328393,True,True,4.109092235154955,7.545910326000104,High Runs
+SCG,Cloudy,32.8,47.3,Flat,Test,312.75698297596585,True,False,3.8347507279633666,0.133178199655287,High Runs
+Eden Gardens,Cloudy,26.0,62.0,Flat,ODI,223.0,True,False,3.3,13.7,Balanced
+Adelaide Oval,Windy,15.7,67.5,Dry,ODI,293.3624906817355,True,False,4.148890167958432,42.60582915807172,Low Runs
+Eden Gardens,Overcast,39.6,50.2,Flat,Test,361.14573612147916,True,True,4.210582117986751,17.49871488412306,High Runs
+Eden Gardens,Cloudy,20.1,51.2,Green,T20,368.9432423493564,False,False,2.4563656312777606,5.568907592457531,High Runs
+Lords,Overcast,37.5,44.4,Green,Test,76.55589330111601,False,True,3.9422422710170935,32.974434508331754,Low Runs
+MCG,Windy,39.0,43.6,Flat,T20,226.9,False,False,4.6,22.6,Balanced
+Eden Gardens,Windy,20.2,35.7,Dry,T20,113.1849057280676,False,False,3.8036251734359343,48.11165588396056,Low Runs
+MCG,Windy,28.3,31.9,Dry,T20,398.2,True,False,2.5,49.0,Balanced
+MCG,Rainy,21.9,35.7,Green,ODI,235.7,False,True,5.6,32.5,Balanced
+Wankhede Stadium,Rainy,18.6,62.3,Cracked,T20,285.5,True,False,2.6,19.6,Balanced
+Eden Gardens,Rainy,35.8,74.9,Flat,Test,181.4,True,False,4.9,15.8,Balanced
+MCG,Windy,39.3,88.2,Dusty,Test,358.0,True,True,3.6,34.3,Balanced
+Eden Gardens,Overcast,35.2,49.7,Dusty,T20,326.2,True,False,5.3,11.2,Balanced
+SCG,Windy,30.8,75.9,Dry,T20,362.2,True,False,3.9,39.5,Balanced
+Adelaide Oval,Rainy,24.5,85.8,Green,T20,246.9,True,False,2.7,34.9,Balanced
+Lords,Cloudy,26.2,43.7,Dusty,Test,421.7247457880357,True,False,4.939814024901519,34.86833065407391,High Runs
+Wankhede Stadium,Rainy,30.0,66.4,Green,T20,307.3,False,False,4.9,44.5,Balanced
+Adelaide Oval,Cloudy,16.9,39.6,Dry,Test,179.2632396066439,False,False,6.6800452777362285,60.394514817108416,Low Runs
+MCG,Overcast,22.9,45.6,Dusty,T20,223.00463543730848,False,False,3.046885968711589,20.087255628298067,Low Runs
+Eden Gardens,Windy,30.0,85.6,Dry,ODI,143.74239643763158,True,True,3.7787875717172437,49.38120443296801,Low Runs
+Wankhede Stadium,Overcast,32.2,48.1,Flat,Test,354.4,False,True,2.7,41.3,Balanced
+Eden Gardens,Cloudy,20.1,38.6,Dusty,Test,378.08120636554315,False,False,1.6001607706073995,17.601937519913392,High Runs
+Lords,Sunny,30.0,36.3,Flat,T20,202.8,False,True,3.0,24.7,Balanced
+SCG,Cloudy,32.9,31.0,Dry,ODI,383.6219798828063,False,True,4.3566150350578905,26.484291640810195,High Runs
+Eden Gardens,Sunny,22.9,76.6,Dry,ODI,213.5,False,False,2.2,49.2,Balanced
+Lords,Overcast,24.9,89.3,Green,ODI,116.97180756993205,False,True,5.93407274544871,22.407444384090297,Low Runs
+Wankhede Stadium,Overcast,15.8,41.1,Dusty,Test,276.6,False,False,3.8,49.6,Balanced
+Eden Gardens,Windy,33.7,39.7,Dry,Test,85.07076485030592,False,False,4.899907724858762,27.95131473992665,Low Runs
+Adelaide Oval,Overcast,19.4,43.9,Dry,T20,319.6,True,False,3.0,46.7,Balanced
+Adelaide Oval,Sunny,31.7,87.7,Dry,Test,321.2,False,False,2.4,24.1,Balanced
+Eden Gardens,Rainy,26.7,32.6,Cracked,T20,197.25622346571126,True,False,4.794822880675534,41.45449081542451,Low Runs
+MCG,Windy,36.2,40.0,Flat,T20,253.9,True,False,3.3,46.2,Balanced
+Adelaide Oval,Rainy,22.8,55.5,Green,ODI,364.38835341988835,True,False,3.755230951578227,5.002687430820773,High Runs
+Adelaide Oval,Sunny,31.8,43.7,Dry,Test,402.554464557359,False,True,3.053578187243694,32.182944552690486,High Runs
+SCG,Sunny,16.6,54.0,Flat,ODI,318.3985925038761,True,False,0.6746989554526706,15.952293556393434,High Runs
+MCG,Windy,18.0,39.9,Cracked,T20,386.70828016489446,False,True,5.2177792739563404,12.492049708767908,High Runs
+Wankhede Stadium,Rainy,20.9,80.8,Dusty,Test,213.31659910666508,False,False,4.3227216760426534,32.8162393732233,High Runs
+Eden Gardens,Windy,19.9,63.5,Dusty,ODI,454.65666765109637,True,True,0.7971760951276763,7.3178056033682495,High Runs
+Wankhede Stadium,Overcast,36.5,34.1,Flat,T20,478.9057418714819,True,True,3.6615122890007687,10.77273684623404,High Runs
+Wankhede Stadium,Overcast,34.9,70.6,Dusty,T20,168.5,True,False,5.5,32.5,Balanced
+MCG,Sunny,22.8,76.9,Dusty,Test,256.9135093598112,False,True,4.543106092174415,25.48982270599208,Low Runs
+SCG,Cloudy,38.7,33.2,Green,ODI,205.2,True,True,4.2,27.5,Balanced
+MCG,Sunny,21.3,31.2,Dry,Test,152.4,True,True,4.1,39.4,Balanced
+Adelaide Oval,Cloudy,33.6,47.7,Green,ODI,345.5,True,False,3.9,14.4,Balanced
+Lords,Sunny,38.4,40.5,Dusty,T20,326.9,False,True,2.2,48.7,Balanced
+Lords,Sunny,39.9,35.7,Cracked,T20,354.6,True,True,4.1,22.8,Balanced
+Wankhede Stadium,Cloudy,39.4,39.7,Dry,Test,276.0589493378353,False,False,6.914312066942044,39.53554947838855,Low Runs
+Adelaide Oval,Windy,29.4,77.0,Dusty,Test,320.8,True,False,3.2,48.8,Balanced
+Wankhede Stadium,Sunny,20.8,42.3,Cracked,ODI,166.9,False,False,5.1,41.7,Balanced
+Wankhede Stadium,Cloudy,38.5,50.1,Flat,T20,376.3,False,True,6.0,40.5,Balanced
+SCG,Windy,34.7,32.6,Cracked,Test,243.8,True,True,3.3,17.1,Balanced
+SCG,Windy,17.9,70.0,Green,ODI,463.8903747723254,True,True,1.485981677024789,38.019925705716304,High Runs
+Adelaide Oval,Rainy,39.5,60.8,Green,ODI,279.8339346738474,True,True,1.7802217599946368,12.070415123932918,High Runs
+Eden Gardens,Cloudy,34.9,34.5,Cracked,T20,397.4,False,False,3.9,26.1,Balanced
+Lords,Windy,23.4,88.3,Dry,ODI,277.7458347677763,False,True,1.2618545173350166,0.9631145085906816,High Runs
+Lords,Sunny,24.9,42.6,Green,Test,180.2,True,True,2.8,48.9,Balanced
+Adelaide Oval,Cloudy,20.9,82.1,Cracked,ODI,360.5,False,True,2.4,21.5,Balanced
+Eden Gardens,Windy,29.1,73.0,Cracked,ODI,383.14612982171445,False,False,3.4721235973126943,6.650661889073582,High Runs
+Lords,Rainy,30.7,36.4,Cracked,ODI,399.6,False,True,3.4,37.7,Balanced
+Eden Gardens,Rainy,20.2,55.0,Green,Test,362.5,False,False,3.8,31.6,Balanced
+MCG,Sunny,18.7,62.2,Cracked,ODI,256.3,True,True,3.2,23.9,Balanced
+Adelaide Oval,Sunny,26.7,42.7,Flat,T20,332.7044413414008,True,True,3.6139869355372585,49.61296540887581,Low Runs
+Wankhede Stadium,Windy,24.0,63.0,Cracked,ODI,463.35900145448284,True,False,2.298243433728376,12.663958262257232,High Runs
+Lords,Cloudy,24.7,46.7,Flat,ODI,110.3465532711891,False,True,5.668841061241743,31.88736383629007,Low Runs
+Wankhede Stadium,Sunny,16.8,66.5,Dusty,ODI,429.00299418508513,False,True,3.932488547910821,31.183161258454245,High Runs
+Adelaide Oval,Overcast,30.0,36.3,Green,Test,250.68256797242915,True,True,2.068490526694271,11.872165910858369,High Runs
+MCG,Sunny,26.8,70.1,Green,Test,181.0,True,True,4.0,12.3,Balanced
+MCG,Rainy,22.1,42.1,Dry,Test,350.7,True,True,4.4,42.8,Balanced
+Lords,Cloudy,21.2,43.4,Dry,T20,313.5,True,True,3.1,41.4,Balanced
+SCG,Sunny,39.8,46.8,Dusty,Test,215.3,False,False,5.6,15.4,Balanced
+Wankhede Stadium,Cloudy,29.2,52.3,Cracked,Test,228.4,True,False,4.9,29.1,Balanced
+Eden Gardens,Sunny,20.6,88.7,Dry,Test,448.10135645836067,True,False,1.7915328421311347,30.302923553183334,High Runs
+MCG,Cloudy,35.7,65.8,Green,T20,346.2,False,True,5.1,38.3,Balanced
+Eden Gardens,Windy,22.8,73.1,Dusty,T20,287.5,False,False,3.1,35.7,Balanced
+MCG,Windy,36.0,84.1,Cracked,ODI,185.8,False,False,4.7,14.6,Balanced
+Lords,Overcast,21.1,56.7,Dry,Test,398.3613720966629,True,True,1.9110678936011185,13.554647451740916,High Runs
+Adelaide Oval,Rainy,21.7,60.6,Dry,Test,435.19335102121624,False,False,2.9853015918050687,41.41494701789204,High Runs
+MCG,Overcast,27.1,68.4,Cracked,T20,316.3136027219066,True,False,0.8332614345416105,11.968950271948248,High Runs
+SCG,Windy,28.4,63.7,Flat,ODI,442.3121768043626,False,True,3.6239231681766393,30.825751226349087,High Runs
+Wankhede Stadium,Sunny,20.3,86.3,Flat,Test,333.1,False,False,5.1,24.0,Balanced
+Adelaide Oval,Overcast,24.2,46.1,Dusty,ODI,325.4221710587796,True,False,5.940869816598472,60.7562630617369,Low Runs
+Eden Gardens,Windy,32.0,75.2,Flat,Test,227.5,True,False,4.7,45.8,Balanced
+MCG,Rainy,39.4,61.1,Dusty,Test,165.32679608431272,True,True,3.2587534767972524,26.593248488205006,Low Runs
+Eden Gardens,Sunny,30.8,43.3,Flat,T20,169.0,True,True,3.7,42.6,Balanced
+Eden Gardens,Rainy,22.7,34.5,Green,T20,333.1,False,True,4.3,27.7,Balanced
+Lords,Cloudy,26.5,82.3,Dry,ODI,194.7798005957237,False,False,4.412021158449213,53.74064937544307,Low Runs
+Lords,Overcast,19.7,48.3,Dusty,T20,108.4127838676274,True,True,2.7715317093305467,37.06838859720567,Low Runs
+Eden Gardens,Rainy,34.5,65.3,Cracked,ODI,293.62290454396157,True,False,3.5349801499591127,22.8326980282959,High Runs
+SCG,Rainy,28.5,45.4,Flat,Test,336.0,True,True,3.0,23.6,Balanced
+Lords,Sunny,37.6,32.3,Dry,ODI,274.1776325134872,True,False,3.117577300952145,30.21667250576746,High Runs
+SCG,Cloudy,28.5,77.6,Green,ODI,386.3,True,False,2.4,29.9,Balanced
+Adelaide Oval,Windy,22.2,76.2,Flat,T20,221.2309223677257,True,False,5.300709212849787,29.625012786733997,Low Runs
+MCG,Rainy,27.5,57.5,Cracked,ODI,336.61231075267006,True,True,4.191806933791743,24.856030128357055,High Runs
+Eden Gardens,Overcast,33.6,64.6,Cracked,ODI,282.1,True,False,2.2,41.3,Balanced
+Eden Gardens,Sunny,31.0,57.6,Flat,Test,285.03764272653495,True,False,3.9998788251072943,38.75772488815619,High Runs
+Wankhede Stadium,Overcast,28.7,85.8,Cracked,ODI,303.1557795464161,True,True,3.43803714467087,27.92395663143693,Low Runs
+Adelaide Oval,Sunny,29.9,77.6,Dusty,ODI,358.4,True,False,4.5,18.9,Balanced
+Adelaide Oval,Windy,37.8,82.1,Dry,T20,289.62051329327517,False,False,2.4531406485554434,19.610689176306106,High Runs
+Adelaide Oval,Windy,23.3,63.0,Cracked,Test,332.4,True,False,3.1,45.8,Balanced
+Lords,Cloudy,18.7,81.2,Flat,ODI,392.30716694083156,True,True,4.726917318007977,33.45162732677445,High Runs
+Wankhede Stadium,Rainy,28.7,72.6,Cracked,ODI,369.7,False,True,4.7,18.1,Balanced
+Eden Gardens,Windy,20.3,81.4,Cracked,T20,169.45886230222538,True,False,6.394600456850579,47.31239107316494,Low Runs
+Lords,Cloudy,23.4,83.6,Green,Test,230.32240894866544,True,True,1.2968465530639592,7.514553921872928,High Runs
+MCG,Windy,25.8,76.8,Dusty,Test,159.6,False,False,2.3,32.4,Balanced
+SCG,Rainy,18.3,44.1,Dry,ODI,103.26765101056756,True,False,3.781022046941404,35.15124461718431,Low Runs
+Adelaide Oval,Sunny,15.9,87.2,Dry,Test,171.2,True,False,2.2,35.8,Balanced
+Lords,Overcast,24.0,77.5,Dry,Test,177.70768556464864,True,False,6.65440975786819,27.914752897298666,Low Runs
+SCG,Sunny,28.0,38.7,Green,Test,319.2,True,False,3.9,48.0,Balanced
+MCG,Cloudy,29.7,68.9,Dusty,Test,266.2,True,False,5.6,39.1,Balanced
+Lords,Overcast,17.9,78.2,Dusty,ODI,183.4,False,False,5.9,18.3,Balanced
+SCG,Sunny,20.4,78.0,Dry,T20,364.47848760034486,True,True,2.6357949206535607,36.74168694491051,High Runs
+Eden Gardens,Sunny,35.5,38.1,Dry,ODI,285.0,True,True,2.6,27.1,Balanced
+MCG,Windy,37.2,41.1,Flat,T20,338.9,True,True,4.5,34.2,Balanced
+MCG,Rainy,16.8,86.0,Flat,ODI,210.3,True,False,5.9,19.8,Balanced
+Wankhede Stadium,Cloudy,30.2,56.1,Dusty,Test,150.6,False,False,3.7,24.3,Balanced
+MCG,Sunny,33.2,62.8,Green,T20,179.4,False,True,3.3,37.7,Balanced
+MCG,Rainy,28.7,73.4,Dry,ODI,468.5865111269693,True,False,2.9747851383911015,9.529696144847271,High Runs
+Adelaide Oval,Windy,20.2,74.6,Flat,T20,331.3,True,True,5.8,23.6,Balanced
+Wankhede Stadium,Overcast,36.1,77.8,Green,ODI,395.7,True,True,3.8,14.9,Balanced
+SCG,Rainy,25.6,81.2,Green,T20,365.7,False,False,2.7,17.9,Balanced
+Eden Gardens,Rainy,28.7,42.9,Green,ODI,331.8,True,False,3.7,46.8,Balanced
+Eden Gardens,Rainy,23.8,54.9,Dusty,ODI,377.4,True,False,4.6,17.4,Balanced
+Eden Gardens,Windy,15.7,88.7,Flat,ODI,204.0,True,True,3.0,28.4,Balanced
+SCG,Overcast,26.1,51.1,Dry,T20,234.7,True,False,2.8,10.2,Balanced
+SCG,Overcast,38.8,32.6,Dusty,ODI,471.7031250602871,False,False,4.0217751218855575,39.08325724640176,High Runs
+Eden Gardens,Windy,21.5,56.4,Cracked,ODI,268.0650161168327,False,True,2.896965182266051,37.6473155394331,Low Runs
+MCG,Windy,38.0,47.9,Green,ODI,112.40455468868451,False,False,5.39813357182909,38.44488870480863,Low Runs
+Wankhede Stadium,Rainy,22.1,79.5,Cracked,T20,354.3,True,True,3.3,30.2,Balanced
+SCG,Windy,19.1,39.5,Dry,T20,209.5,False,True,2.4,41.9,Balanced
+Lords,Rainy,25.1,71.5,Cracked,Test,180.4,False,False,2.6,16.7,Balanced
+Wankhede Stadium,Rainy,17.3,51.1,Cracked,Test,233.64563015532676,True,True,5.786306234638443,57.28363950940471,Low Runs
+Eden Gardens,Rainy,20.0,62.0,Dry,ODI,232.78380204044313,False,False,4.430428598347103,34.26769463194444,High Runs
+Eden Gardens,Cloudy,18.9,71.2,Cracked,T20,363.1,True,True,5.6,10.7,Balanced
+MCG,Sunny,19.1,85.7,Green,Test,256.16891457760835,False,True,2.3180312825947986,23.482614562653573,High Runs
+SCG,Windy,38.6,62.1,Green,Test,310.3,False,True,4.6,32.5,Balanced
+Wankhede Stadium,Windy,33.8,77.1,Cracked,Test,235.3,False,True,3.2,17.4,Balanced
+Adelaide Oval,Overcast,22.9,34.9,Flat,ODI,361.9,False,True,4.5,43.4,Balanced
+Lords,Windy,26.2,81.7,Dry,T20,201.5,True,False,4.5,27.1,Balanced
+Adelaide Oval,Overcast,20.4,38.1,Dusty,ODI,149.505394931444,True,True,3.688726022879896,44.678050015391236,Low Runs
+SCG,Windy,22.8,54.5,Dry,ODI,112.35311093631958,False,False,4.959086494674971,43.48962543119603,Low Runs
+MCG,Sunny,28.0,44.2,Green,ODI,293.0,False,False,5.5,29.4,Balanced
+MCG,Cloudy,21.2,66.4,Flat,T20,280.3552992068686,True,False,1.8957619500376142,9.265596726062661,High Runs
+SCG,Overcast,24.8,84.9,Dry,T20,343.2,True,True,3.0,30.8,Balanced
+Wankhede Stadium,Rainy,33.9,87.9,Dusty,ODI,375.2,False,True,2.7,45.2,Balanced
+Adelaide Oval,Windy,39.5,78.8,Green,T20,393.6,False,False,2.0,13.7,Balanced
+Lords,Overcast,20.7,80.7,Dusty,ODI,459.0752280395162,True,True,3.2038302905201386,25.907844316259993,High Runs
+SCG,Rainy,27.8,66.3,Flat,Test,388.4,False,False,3.2,30.1,Balanced
+Wankhede Stadium,Sunny,15.0,51.0,Dry,ODI,341.6,True,True,3.1,45.5,Balanced
+Lords,Cloudy,17.7,79.9,Dry,Test,301.0,True,True,2.0,14.2,Balanced
+MCG,Windy,21.0,57.1,Flat,T20,345.9,False,False,3.4,23.9,Balanced
+Adelaide Oval,Cloudy,28.8,34.3,Green,Test,417.3304336301612,True,False,2.726299052661554,24.255572315382118,High Runs
+Adelaide Oval,Cloudy,35.4,87.8,Cracked,Test,259.9,False,True,4.4,22.7,Balanced
+SCG,Sunny,25.4,82.2,Dry,T20,249.46369902833044,False,True,2.8814659714144932,38.79681764592681,High Runs
+MCG,Windy,27.4,60.2,Green,ODI,251.6406618894315,False,True,3.51814698944858,8.861407456119498,High Runs
+Eden Gardens,Cloudy,24.0,85.4,Green,ODI,270.48572977280344,False,True,1.2576771219839198,3.3956105420075247,High Runs
+Eden Gardens,Sunny,23.7,86.0,Cracked,Test,356.2,True,True,4.2,39.5,Balanced
+MCG,Cloudy,37.7,46.5,Dusty,T20,154.0,False,False,4.9,13.7,Balanced
+Lords,Cloudy,32.1,46.3,Green,T20,220.1,False,False,5.5,34.1,Balanced
+Eden Gardens,Rainy,36.6,69.5,Dusty,Test,101.07104096595252,False,True,5.505811109034903,28.085674662933563,Low Runs
+Lords,Windy,27.8,86.6,Dry,T20,334.0,False,False,4.3,32.0,Balanced
+Wankhede Stadium,Windy,35.4,68.3,Green,ODI,396.3,False,False,2.5,20.4,Balanced
+Lords,Rainy,38.2,65.2,Dusty,ODI,296.7,True,False,4.2,17.5,Balanced
+Eden Gardens,Cloudy,35.8,74.7,Green,T20,147.93298822133562,True,False,3.7401262297750715,24.855212151969,Low Runs
+MCG,Windy,30.2,30.6,Dusty,T20,302.4793083625676,False,False,3.286055363648751,28.369952393731914,Low Runs
+Eden Gardens,Cloudy,16.6,83.6,Cracked,T20,289.56131881623895,True,False,1.3780016625107558,35.750420474123686,High Runs
+SCG,Windy,18.8,88.5,Flat,Test,334.6,False,False,4.7,32.1,Balanced
+MCG,Rainy,22.5,57.5,Flat,Test,282.9,True,True,4.3,39.2,Balanced
+Lords,Overcast,37.5,66.5,Dusty,Test,388.3,False,True,2.7,13.8,Balanced
+Lords,Overcast,28.1,75.6,Green,T20,266.1,True,False,5.7,47.1,Balanced
+Eden Gardens,Windy,31.0,34.3,Flat,Test,132.4995215041334,False,False,3.764296345938947,55.18168914650704,Low Runs
+MCG,Windy,16.1,55.0,Dry,ODI,272.6,True,False,5.4,41.4,Balanced
+Eden Gardens,Sunny,23.6,87.4,Dusty,Test,323.3,True,True,2.6,15.4,Balanced
+Adelaide Oval,Overcast,17.6,69.2,Dry,ODI,270.4,True,True,3.1,42.6,Balanced
+Wankhede Stadium,Windy,27.5,47.1,Dry,ODI,291.322213626943,False,False,2.2231827981916115,13.708280593521582,High Runs
+Wankhede Stadium,Sunny,20.6,45.1,Flat,Test,389.1,True,False,4.7,47.4,Balanced
+Adelaide Oval,Windy,29.1,62.8,Dusty,T20,397.6,False,False,5.0,13.7,Balanced
+Wankhede Stadium,Windy,23.2,34.1,Dry,ODI,342.7,False,True,2.0,34.6,Balanced
+SCG,Rainy,23.4,50.0,Dry,Test,399.39109908481265,False,True,2.5058640197916615,0.23508892205321175,High Runs
+Eden Gardens,Cloudy,37.6,72.2,Green,Test,307.9152261458564,True,True,6.369025851863622,44.02827979349095,Low Runs
+Lords,Cloudy,35.6,74.0,Cracked,Test,262.7,False,False,2.4,28.3,Balanced
+Wankhede Stadium,Sunny,25.2,60.1,Dry,ODI,370.85380955092313,True,True,2.3604723597725816,16.808183085540684,High Runs
+MCG,Sunny,26.3,56.1,Green,Test,232.93068636578863,False,False,5.898948345466476,37.974937280514446,Low Runs
+Adelaide Oval,Cloudy,17.0,39.8,Green,Test,447.3027518147918,True,True,2.679480464547382,31.086891742710073,High Runs
+Adelaide Oval,Sunny,25.4,53.1,Dry,ODI,329.05876789930807,False,False,4.6492328565999035,4.294755407370802,High Runs
+Adelaide Oval,Windy,38.7,61.7,Dusty,ODI,308.1,True,True,5.3,17.3,Balanced
+Adelaide Oval,Sunny,35.2,41.3,Cracked,T20,263.0936298329949,True,False,5.025876600463458,1.0470488775642526,High Runs
+Eden Gardens,Windy,20.7,89.9,Dry,Test,427.3679207223572,True,False,4.070866043275717,23.70473725150525,High Runs
+Eden Gardens,Overcast,18.9,50.6,Green,Test,181.7,False,False,2.6,13.8,Balanced
+Adelaide Oval,Sunny,23.9,66.4,Dusty,Test,341.8,True,True,2.7,16.6,Balanced
+Lords,Rainy,23.4,88.8,Flat,Test,156.4,True,True,2.0,13.8,Balanced
+Adelaide Oval,Overcast,19.4,87.5,Cracked,Test,208.9,False,True,5.7,20.2,Balanced
+Wankhede Stadium,Windy,22.1,37.1,Dusty,T20,373.65051784480255,True,True,2.961463118541874,1.1266475736129813,High Runs
+Wankhede Stadium,Sunny,34.3,81.5,Dry,ODI,249.8,True,True,4.9,41.8,Balanced
+Eden Gardens,Sunny,16.3,73.3,Cracked,Test,272.5,True,True,3.8,43.5,Balanced
+SCG,Overcast,16.5,64.4,Green,ODI,342.2,True,True,3.8,42.7,Balanced
+Lords,Rainy,35.2,35.5,Dry,T20,156.5,False,False,3.8,40.1,Balanced
+Adelaide Oval,Cloudy,20.1,52.7,Flat,T20,361.03710834221465,False,False,2.2117481177293303,8.805596853954516,High Runs
+Adelaide Oval,Overcast,33.7,68.1,Flat,Test,304.26123860391664,False,True,4.224467526255301,38.358746413348015,Low Runs
+MCG,Windy,18.5,53.5,Cracked,T20,207.8,True,False,3.9,41.2,Balanced
+Adelaide Oval,Overcast,20.9,62.0,Green,T20,271.1,True,False,5.1,43.9,Balanced
+Wankhede Stadium,Rainy,23.2,76.1,Dusty,Test,301.3,True,True,4.2,31.5,Balanced
+MCG,Sunny,26.5,80.1,Dry,Test,235.7951416308141,False,False,4.3925602322275905,49.52163442986179,Low Runs
+Adelaide Oval,Overcast,19.3,87.1,Flat,ODI,344.7,True,False,2.9,34.6,Balanced
+SCG,Overcast,22.3,84.6,Green,T20,254.1454986941182,False,False,4.351874446633527,43.49646642170522,High Runs
+MCG,Cloudy,39.2,55.9,Cracked,T20,393.1,True,False,4.8,17.1,Balanced
+Wankhede Stadium,Windy,26.4,41.8,Dry,ODI,386.01211141397334,False,False,3.015588407776226,32.707148125460726,High Runs
+Wankhede Stadium,Rainy,39.8,62.8,Flat,ODI,375.98384717114715,True,True,1.6298036192718217,16.994610638133572,High Runs
+Eden Gardens,Windy,26.4,46.8,Cracked,Test,295.2,False,False,4.4,42.1,Balanced
+Eden Gardens,Rainy,23.3,54.3,Flat,T20,291.6,False,False,3.8,20.6,Balanced
+Eden Gardens,Cloudy,16.9,71.3,Cracked,Test,403.6509570301872,False,False,4.712905209546456,38.656889179629985,High Runs
+Wankhede Stadium,Sunny,24.5,49.5,Dry,Test,399.33155811147344,True,False,5.06275500478842,40.3161650718158,High Runs
+MCG,Sunny,17.3,72.7,Cracked,Test,310.7074804368821,True,False,3.6686534426542545,32.32088434189882,Low Runs
+Adelaide Oval,Windy,33.1,39.9,Dry,ODI,320.8,False,True,5.7,26.9,Balanced
+Lords,Sunny,35.4,34.2,Dry,T20,399.7,False,False,2.4,31.1,Balanced
+Wankhede Stadium,Cloudy,27.7,39.7,Flat,ODI,276.8,True,False,2.6,27.5,Balanced
+SCG,Rainy,26.5,42.5,Cracked,T20,333.0,True,False,2.4,46.4,Balanced
+Wankhede Stadium,Cloudy,29.8,54.9,Dry,T20,368.9,False,True,4.6,49.4,Balanced
+Adelaide Oval,Rainy,37.1,59.8,Green,Test,290.2,True,False,2.2,40.0,Balanced
+Eden Gardens,Windy,37.6,78.8,Cracked,T20,310.0,True,True,2.8,42.4,Balanced
+Adelaide Oval,Windy,27.3,83.1,Flat,ODI,214.10730382610507,True,False,1.414061390880723,1.9094437376275266,High Runs
+MCG,Rainy,20.3,53.5,Green,ODI,255.9787554145011,True,True,4.768456632544303,26.484202652246964,Low Runs
+SCG,Sunny,19.2,82.9,Flat,T20,155.7,True,False,4.3,15.1,Balanced
+Eden Gardens,Overcast,32.6,73.1,Green,ODI,282.76363824444115,False,False,6.939011236039626,52.903601672258716,Low Runs
+Wankhede Stadium,Windy,33.3,61.6,Dusty,T20,216.9,True,False,2.3,30.5,Balanced
+SCG,Rainy,23.0,60.3,Cracked,Test,313.6,False,False,4.3,18.1,Balanced
+Wankhede Stadium,Overcast,38.8,66.2,Green,T20,125.81501754880118,False,False,6.039669949265456,38.66186672138895,Low Runs
+Adelaide Oval,Sunny,20.7,76.9,Dusty,T20,334.6,False,False,3.3,42.6,Balanced
+Eden Gardens,Overcast,17.0,65.0,Green,ODI,342.0,True,False,5.8,13.3,Balanced
+Adelaide Oval,Overcast,39.2,53.2,Cracked,T20,245.8,False,True,2.1,27.9,Balanced
+MCG,Windy,32.3,49.1,Dusty,ODI,364.4,False,True,3.0,33.4,Balanced
+Eden Gardens,Windy,18.0,79.2,Cracked,Test,238.7,True,True,3.2,31.9,Balanced
+SCG,Cloudy,27.0,71.5,Dusty,T20,317.5,False,False,2.8,14.1,Balanced
+Lords,Rainy,23.5,68.3,Dusty,Test,312.1,False,False,3.7,34.4,Balanced
+Wankhede Stadium,Sunny,25.1,39.2,Cracked,ODI,338.3,True,True,5.4,47.3,Balanced
+MCG,Windy,34.9,55.6,Dry,Test,356.4293868930513,False,False,3.538194918921232,12.221735926536372,High Runs
+Wankhede Stadium,Windy,38.5,83.8,Dusty,Test,285.0,True,False,2.3,40.2,Balanced
+Wankhede Stadium,Cloudy,25.9,84.3,Green,ODI,175.1,True,True,4.1,36.9,Balanced
+Eden Gardens,Sunny,19.3,81.4,Flat,T20,349.9,False,False,2.2,42.3,Balanced
+SCG,Windy,38.0,78.7,Green,T20,356.3,False,False,5.8,38.0,Balanced
+Eden Gardens,Cloudy,24.1,59.5,Dusty,ODI,181.57792694967964,False,False,6.019508371514172,52.19953055587484,Low Runs
+Eden Gardens,Cloudy,24.3,88.0,Green,Test,294.8,False,True,2.3,46.5,Balanced
+MCG,Overcast,29.6,43.2,Cracked,Test,169.6,False,False,5.1,18.0,Balanced
+Eden Gardens,Windy,32.9,41.6,Dusty,Test,468.25188812107956,True,True,1.6062085024709247,28.250522653781456,High Runs
+SCG,Rainy,15.2,88.9,Cracked,ODI,310.5,False,False,3.5,49.9,Balanced
+MCG,Overcast,22.0,77.1,Flat,ODI,394.31921849449634,True,False,5.155075429246759,40.88620323261215,High Runs
+Wankhede Stadium,Windy,35.7,77.7,Flat,Test,386.4,False,True,5.8,18.0,Balanced
+SCG,Cloudy,29.4,32.0,Dusty,Test,225.0,False,True,5.1,31.9,Balanced
+Wankhede Stadium,Overcast,16.7,64.4,Dusty,Test,306.3,True,True,3.9,47.1,Balanced
+Wankhede Stadium,Rainy,35.7,85.5,Dry,ODI,427.5646483651794,True,False,1.9868766283656956,26.83963179080765,High Runs
+Eden Gardens,Windy,23.9,31.5,Dry,T20,232.7,True,True,2.2,14.9,Balanced
+Lords,Cloudy,25.3,38.2,Flat,Test,348.5,False,True,3.8,29.8,Balanced
+Eden Gardens,Rainy,34.8,65.8,Flat,ODI,266.78129132323267,True,False,1.3753165854296978,43.15477781907488,High Runs
+Wankhede Stadium,Sunny,25.1,50.7,Dry,Test,245.89060538884294,True,False,4.337131116777229,27.618933757952796,Low Runs
+MCG,Cloudy,36.4,50.2,Flat,Test,318.6,True,False,2.5,47.3,Balanced
+Lords,Windy,19.9,70.4,Flat,ODI,398.0,False,False,3.0,41.2,Balanced
+SCG,Cloudy,29.3,37.0,Flat,Test,61.67651159917561,False,False,6.300909939036665,37.837330784423976,Low Runs
+Eden Gardens,Cloudy,17.2,44.2,Cracked,T20,245.2,False,True,3.5,31.4,Balanced
+Eden Gardens,Overcast,29.1,82.6,Cracked,ODI,332.6,False,True,5.3,37.4,Balanced
+Wankhede Stadium,Sunny,25.1,86.2,Cracked,ODI,180.1684815276646,False,False,5.549531766008133,57.15129594391939,Low Runs
+MCG,Cloudy,34.7,60.7,Green,ODI,211.2,True,True,4.2,13.1,Balanced
+Adelaide Oval,Sunny,36.1,69.1,Cracked,Test,223.8,True,True,4.6,15.8,Balanced
+Wankhede Stadium,Sunny,37.8,30.1,Flat,ODI,87.9361394380214,False,False,5.783899962507104,34.965814934181914,Low Runs
+SCG,Sunny,16.7,77.4,Dry,T20,170.81246043012618,True,False,5.779552263244858,18.92186867372238,Low Runs
+Lords,Overcast,38.3,83.2,Green,T20,192.4,True,True,3.0,28.4,Balanced
+Lords,Overcast,17.3,89.8,Dusty,T20,216.1,True,False,5.5,43.4,Balanced
+Wankhede Stadium,Cloudy,21.7,72.5,Cracked,T20,282.3356079455815,False,True,4.011844730657003,6.447515338764044,High Runs
+Eden Gardens,Overcast,21.7,57.3,Green,T20,254.9,True,False,3.1,25.2,Balanced
+MCG,Rainy,21.3,32.7,Dry,T20,447.91513988067965,False,False,3.3265935223507,20.198673464288255,High Runs
+Adelaide Oval,Sunny,26.9,65.8,Green,Test,230.3,True,False,4.8,34.2,Balanced
+Lords,Windy,17.9,38.7,Green,ODI,269.3,False,False,5.3,18.7,Balanced
+Eden Gardens,Cloudy,16.1,73.0,Dusty,ODI,249.1,True,False,2.3,34.7,Balanced
+Adelaide Oval,Sunny,26.9,84.6,Dusty,Test,315.66075012637333,False,True,2.5202455995382103,9.232425720572953,High Runs
+SCG,Rainy,31.8,82.6,Dusty,Test,299.51670545083493,False,False,6.83442845683965,53.61713515617574,Low Runs
+MCG,Sunny,17.1,73.5,Dry,ODI,349.8,True,False,2.5,34.2,Balanced
+Lords,Windy,23.8,50.8,Dusty,T20,338.7,False,True,3.7,16.9,Balanced
+SCG,Overcast,35.1,79.3,Dry,ODI,443.06351281804274,False,True,4.893634815506462,27.379793974027212,High Runs
+Wankhede Stadium,Rainy,37.5,47.1,Dusty,ODI,343.7,False,True,5.0,43.3,Balanced
+Adelaide Oval,Rainy,34.6,82.3,Flat,ODI,425.03467560902624,False,True,3.827971038792655,4.973391957893671,High Runs
+SCG,Rainy,34.7,81.9,Dry,ODI,399.3421959296865,False,True,3.6016067754310273,4.867249998895268,High Runs
+MCG,Windy,36.4,77.2,Dry,T20,190.77368412987434,True,False,4.514026558331578,24.239763197662384,Low Runs
+MCG,Sunny,31.5,72.4,Green,ODI,373.2,True,False,4.4,28.4,Balanced
+MCG,Overcast,37.4,72.4,Cracked,Test,308.4,True,False,3.8,38.0,Balanced
+MCG,Sunny,28.8,77.1,Flat,ODI,301.6,False,True,3.6,13.6,Balanced
+Eden Gardens,Rainy,30.7,40.2,Cracked,T20,333.6,True,False,4.7,22.9,Balanced
+Eden Gardens,Cloudy,35.1,30.4,Dry,Test,92.9709044387369,True,False,6.3421391288356865,47.430531232406956,Low Runs
+Lords,Cloudy,25.9,62.1,Dry,ODI,477.7537951045434,True,True,3.7650430469695735,11.545325052613595,High Runs
+Lords,Windy,31.0,41.7,Green,ODI,204.0,True,False,4.7,47.9,Balanced
+Lords,Cloudy,19.8,61.5,Green,T20,455.28253935451716,True,True,4.085665468079991,30.20310359435348,High Runs
+MCG,Rainy,15.6,39.5,Green,T20,337.34930134545993,True,True,2.24056969813648,5.34732360353628,High Runs
+SCG,Windy,19.0,44.9,Dry,T20,256.08523667085876,True,False,2.736421813936165,7.504345287119435,High Runs
+Lords,Windy,34.3,65.8,Flat,T20,126.63245158946835,True,True,5.859070015661551,24.55536351562521,Low Runs
+Lords,Sunny,20.4,35.8,Flat,T20,396.3,True,False,4.9,18.1,Balanced
+SCG,Windy,17.7,59.5,Cracked,ODI,331.6,True,False,2.1,39.8,Balanced
+Wankhede Stadium,Overcast,24.2,67.1,Cracked,T20,320.1,True,False,3.4,42.2,Balanced
+SCG,Overcast,22.0,41.3,Dusty,Test,270.6825982013997,True,True,4.390453662894516,25.16806919820757,High Runs
+MCG,Windy,38.7,74.6,Dusty,T20,264.9,False,False,3.3,47.6,Balanced
+Lords,Sunny,15.7,54.9,Green,Test,432.51349251707273,False,True,2.8044977102946627,11.735501874633092,High Runs
+SCG,Windy,25.2,64.5,Dry,ODI,258.6,False,True,5.6,33.6,Balanced
+Adelaide Oval,Cloudy,29.1,33.3,Cracked,Test,343.2,False,False,2.8,28.1,Balanced
+Adelaide Oval,Rainy,25.7,49.8,Flat,Test,384.2,False,False,3.3,49.2,Balanced
+SCG,Rainy,36.2,58.8,Cracked,Test,181.5,False,True,2.8,37.6,Balanced
+Adelaide Oval,Cloudy,19.8,38.8,Dusty,Test,286.6820629641161,True,True,4.384289223725287,3.3733299586022785,High Runs
+Eden Gardens,Windy,30.4,41.8,Dusty,T20,185.5,False,True,3.7,31.5,Balanced
+Wankhede Stadium,Cloudy,30.3,55.8,Dusty,ODI,155.8,True,True,5.0,38.6,Balanced
+SCG,Sunny,19.2,34.4,Flat,Test,343.3,False,False,2.0,27.8,Balanced
+Lords,Rainy,22.4,56.3,Dusty,T20,343.6,True,False,4.8,35.2,Balanced
+Eden Gardens,Overcast,21.5,45.8,Green,ODI,341.6,True,False,4.4,36.8,Balanced
+Eden Gardens,Cloudy,15.5,55.5,Dusty,Test,327.7,False,False,2.8,41.8,Balanced
+Eden Gardens,Windy,33.2,59.8,Dusty,T20,203.2,True,False,2.9,10.4,Balanced
+MCG,Sunny,18.1,75.3,Cracked,Test,388.8,True,False,5.7,22.7,Balanced
+Eden Gardens,Rainy,30.6,35.3,Flat,Test,367.9,False,False,2.1,22.6,Balanced
+Eden Gardens,Overcast,23.3,51.3,Green,Test,163.72611223521614,False,False,3.372484057972803,30.04276811472368,Low Runs
+SCG,Overcast,29.0,36.4,Dusty,Test,316.9992265220658,True,True,1.6967076464832083,37.024238074137784,High Runs
+SCG,Rainy,38.7,57.0,Green,Test,316.7,True,True,2.5,50.0,Balanced
+Eden Gardens,Sunny,15.5,82.8,Dusty,Test,285.09173048856235,False,True,4.176366535752551,33.629932091759464,High Runs
+Eden Gardens,Sunny,39.0,58.8,Flat,T20,236.89213583730424,True,False,4.380372556765511,31.434028352497887,Low Runs
+Adelaide Oval,Windy,34.2,46.6,Flat,Test,351.05535547714464,True,True,3.7551885668924436,8.736845578511208,High Runs
+MCG,Sunny,16.4,62.6,Flat,ODI,333.44519190484516,False,True,2.7170479938624403,19.628716569840908,High Runs
+Wankhede Stadium,Sunny,30.1,70.5,Cracked,Test,354.8273894431186,False,True,3.8424663662750027,3.4259491537818922,High Runs
+SCG,Rainy,19.4,50.8,Cracked,Test,472.9999414326657,False,True,2.0669302460732126,36.725399904507405,High Runs
+Lords,Windy,28.4,43.4,Dusty,ODI,162.6,True,False,4.3,49.6,Balanced
+Eden Gardens,Cloudy,22.7,47.6,Flat,T20,287.68517236591924,True,True,0.9874662863882018,23.416191621152066,High Runs
+MCG,Cloudy,26.7,37.7,Flat,Test,385.04266542440644,True,True,3.714455813407978,28.923395662919184,High Runs
+Eden Gardens,Rainy,15.7,87.8,Dry,ODI,342.3296606750829,True,False,4.0961236735026985,9.65308371962304,High Runs
+Wankhede Stadium,Overcast,30.4,62.6,Dry,Test,234.39345416561946,True,True,3.968239489193821,29.926614932176324,Low Runs
+Wankhede Stadium,Rainy,34.0,31.9,Dry,Test,196.7,False,True,3.4,37.9,Balanced
+SCG,Sunny,23.4,59.1,Cracked,Test,364.5,False,True,3.0,28.5,Balanced
+Lords,Cloudy,28.3,64.9,Flat,Test,303.9,False,True,3.8,49.7,Balanced
+Lords,Rainy,23.6,55.0,Green,T20,413.4414778965631,False,True,2.045635926375677,6.856689529062068,High Runs
+MCG,Rainy,35.5,58.0,Dry,T20,173.62838725595475,False,False,2.971265830820366,52.834150010427535,Low Runs
+SCG,Sunny,27.8,57.3,Flat,Test,356.21988855943596,False,True,3.951275982105722,32.15593499188453,High Runs
+SCG,Overcast,15.1,67.2,Green,ODI,222.7,True,False,3.0,45.8,Balanced
+Adelaide Oval,Overcast,36.9,47.6,Flat,ODI,273.9,False,False,3.9,27.3,Balanced
+MCG,Overcast,32.2,60.3,Dry,Test,245.6,False,True,5.5,31.9,Balanced
+Adelaide Oval,Rainy,26.3,34.1,Green,T20,226.0,True,True,2.9,20.9,Balanced
+Adelaide Oval,Sunny,24.1,59.0,Green,ODI,375.41850451714276,True,False,4.178023246605583,35.73556815218968,High Runs
+SCG,Windy,21.2,85.3,Cracked,T20,249.52730072943504,False,False,4.2452285105106355,53.10364078970281,Low Runs
+Adelaide Oval,Sunny,15.8,39.2,Dusty,T20,388.8,True,True,4.6,17.9,Balanced
+Eden Gardens,Overcast,31.6,83.2,Dusty,T20,328.2,True,False,5.2,19.3,Balanced
+Eden Gardens,Sunny,19.0,56.8,Dry,Test,381.5,False,True,3.2,10.8,Balanced
+Wankhede Stadium,Sunny,22.8,59.7,Dry,Test,314.7,False,True,3.9,30.8,Balanced
+MCG,Overcast,32.9,80.7,Dry,ODI,239.1,False,True,2.9,15.6,Balanced
+Eden Gardens,Windy,25.4,88.0,Flat,Test,300.0,True,True,2.6,34.5,Balanced
+Eden Gardens,Overcast,17.9,53.7,Dusty,ODI,366.8,False,True,4.2,39.2,Balanced
+Adelaide Oval,Cloudy,39.5,62.4,Green,T20,267.0,False,True,4.1,30.2,Balanced
+Eden Gardens,Windy,21.2,64.7,Flat,ODI,234.00605330552662,False,True,4.284526815117456,41.518180877096995,Low Runs
+Adelaide Oval,Overcast,35.5,68.1,Cracked,Test,225.1,False,False,2.0,25.4,Balanced
+MCG,Rainy,31.9,30.3,Dry,ODI,263.7,True,True,2.8,10.9,Balanced
+Lords,Sunny,26.5,61.0,Dusty,T20,106.28031047853771,True,False,3.4794525062548685,35.25704043529816,Low Runs
+Lords,Cloudy,34.4,43.6,Flat,ODI,63.00717173372395,True,True,4.106987035694729,24.697635026783516,Low Runs
+Wankhede Stadium,Cloudy,36.9,33.8,Dusty,T20,183.44036422903974,False,False,2.8688737948866385,19.99023431132902,Low Runs
+Wankhede Stadium,Sunny,39.7,71.1,Dusty,T20,81.95455986973806,False,True,5.78876330366114,21.99403203024506,Low Runs
+MCG,Sunny,26.6,55.5,Dusty,Test,362.60435223321605,False,True,1.5731763841028372,29.80594437688422,High Runs
+SCG,Overcast,20.1,43.8,Flat,Test,415.3509416130727,True,False,4.856594343055829,7.70721235335677,High Runs
+Adelaide Oval,Rainy,20.1,62.5,Dry,T20,248.6,False,True,4.3,13.8,Balanced
+Adelaide Oval,Windy,29.3,77.2,Dusty,Test,322.5,False,True,5.7,24.7,Balanced
+Eden Gardens,Windy,35.7,30.6,Dusty,T20,152.3,True,True,5.7,44.6,Balanced
+Wankhede Stadium,Windy,15.5,75.8,Flat,Test,249.3,True,False,2.0,45.5,Balanced
+Lords,Overcast,19.8,79.4,Dry,ODI,272.9,True,True,5.9,38.8,Balanced
+Lords,Overcast,34.7,31.9,Green,ODI,385.1,True,False,4.9,41.8,Balanced
+Eden Gardens,Sunny,24.5,34.2,Dusty,Test,311.4,True,True,2.3,45.0,Balanced
+Eden Gardens,Cloudy,37.8,59.7,Dusty,ODI,220.1,False,True,2.5,13.8,Balanced
+Lords,Overcast,24.9,76.7,Dusty,ODI,180.9,False,True,3.4,39.9,Balanced
+Eden Gardens,Rainy,30.4,64.3,Dusty,T20,236.65439901820346,False,True,4.054490207182145,29.72264588248249,Low Runs
+SCG,Cloudy,27.2,54.1,Dusty,T20,331.7560431138901,False,False,3.258450875687771,5.502341868416572,High Runs
+SCG,Overcast,33.9,51.6,Cracked,T20,322.2745591195237,False,True,3.7949326609562704,6.924785176481805,High Runs
+MCG,Overcast,24.1,40.5,Green,T20,263.4,False,True,5.0,21.2,Balanced
+SCG,Windy,35.5,35.4,Flat,Test,331.1,False,True,3.3,20.0,Balanced
+SCG,Sunny,39.3,30.2,Green,Test,304.3,True,True,4.9,38.0,Balanced
+Adelaide Oval,Cloudy,24.3,67.9,Dusty,ODI,349.1,True,True,4.4,15.0,Balanced
+Wankhede Stadium,Rainy,16.4,79.7,Flat,T20,202.8,False,True,5.8,12.7,Balanced
+SCG,Cloudy,28.3,80.8,Cracked,Test,419.1791206809083,False,True,1.6299399363155707,14.011432118327358,High Runs
+Eden Gardens,Rainy,32.6,62.3,Dusty,T20,280.33770664018385,True,False,3.9250716061509747,52.33204744210583,Low Runs
+SCG,Sunny,16.7,40.1,Flat,T20,313.44056514603494,True,True,1.5862985951449682,21.0965872977029,High Runs
+Lords,Cloudy,39.8,49.9,Cracked,Test,176.3,True,True,3.6,43.0,Balanced
+Adelaide Oval,Cloudy,39.1,47.1,Dry,ODI,261.6,False,False,4.6,18.1,Balanced
+Adelaide Oval,Cloudy,37.2,64.1,Cracked,T20,287.12610934283856,True,False,2.8124219105095043,33.61788021477962,High Runs
+SCG,Sunny,36.0,51.5,Dry,ODI,460.73181122434886,True,False,5.051537069054847,39.25022178769363,High Runs
+Adelaide Oval,Cloudy,19.8,50.0,Cracked,Test,314.0172715193582,False,True,6.799094524876297,30.665434510353993,Low Runs
+MCG,Windy,39.3,57.8,Dry,Test,107.53770410487913,False,True,4.539569708913419,37.975282086736435,Low Runs
+SCG,Cloudy,29.3,37.6,Flat,T20,224.0,True,False,3.6,35.2,Balanced
+Eden Gardens,Cloudy,22.3,38.9,Dry,ODI,295.0426522401244,False,True,4.788611155735323,19.92755471800455,Low Runs
+Wankhede Stadium,Overcast,35.7,34.8,Cracked,Test,212.50617670255664,False,True,7.03102999826905,45.515141073892494,Low Runs
+Lords,Sunny,27.3,39.5,Flat,T20,314.4,True,True,5.7,19.3,Balanced
+Lords,Rainy,21.8,61.2,Dry,Test,433.6851239584528,True,False,4.325321508202974,41.33488448481418,High Runs
+Eden Gardens,Sunny,39.1,40.8,Dry,T20,243.8,True,False,5.7,44.1,Balanced
+Eden Gardens,Windy,20.0,39.8,Dusty,Test,337.2,False,False,5.8,36.8,Balanced
+Lords,Sunny,20.4,63.6,Green,ODI,397.4,True,False,3.2,13.9,Balanced
+SCG,Overcast,28.6,43.0,Cracked,T20,407.64993210655985,False,False,3.442409140262358,4.7918597381594505,High Runs
+Eden Gardens,Sunny,32.1,81.7,Cracked,T20,245.2,False,False,5.7,10.5,Balanced
+Lords,Cloudy,37.7,77.3,Cracked,T20,262.6,True,False,2.1,46.9,Balanced
+Lords,Sunny,37.6,76.0,Green,Test,311.1309214247664,False,True,2.6829296272665237,40.949302979598684,Low Runs
+SCG,Sunny,18.2,35.4,Green,Test,371.8,True,False,5.5,16.2,Balanced
+Eden Gardens,Windy,32.0,49.1,Cracked,T20,386.0,False,True,2.6,13.3,Balanced
+Adelaide Oval,Overcast,39.9,84.6,Dusty,Test,416.81591128875266,True,False,3.864886319947391,-1.4842039189333782,High Runs
+Wankhede Stadium,Overcast,15.4,77.9,Cracked,T20,291.48863368177115,True,False,7.071304712907812,42.190161403529885,Low Runs
+Lords,Overcast,30.7,34.9,Green,ODI,307.3,True,False,3.3,43.1,Balanced
+SCG,Overcast,19.4,38.2,Dusty,Test,275.0,False,True,4.4,21.6,Balanced
+Lords,Cloudy,29.7,72.4,Cracked,ODI,346.32013791397515,True,False,5.4770198759166675,16.55139205778219,High Runs
+Adelaide Oval,Windy,35.1,74.4,Dry,ODI,256.2885653995182,False,True,6.619793733138854,57.77649488626288,Low Runs
+Adelaide Oval,Cloudy,25.2,65.8,Dusty,Test,221.1,False,False,4.8,31.3,Balanced
+SCG,Sunny,36.6,56.9,Green,ODI,264.4778519565642,False,True,4.108291292215355,37.595814171397194,High Runs
+Lords,Sunny,28.4,64.7,Cracked,ODI,334.7,True,False,5.3,23.4,Balanced
+Eden Gardens,Rainy,17.0,40.5,Green,Test,227.14815426651782,True,True,2.138140852491319,-2.032432436395803,High Runs
+Lords,Rainy,34.3,70.3,Cracked,ODI,386.6,True,True,3.5,45.0,Balanced
+Adelaide Oval,Windy,36.0,88.4,Flat,T20,231.17001201648,True,True,1.8852972524020548,16.18778887812504,High Runs
+MCG,Cloudy,17.0,64.8,Dusty,T20,271.9,True,True,4.9,43.1,Balanced
+Eden Gardens,Overcast,18.4,86.1,Dusty,ODI,422.2884823054332,False,True,4.421532600311355,40.41633126416285,High Runs
+Eden Gardens,Windy,38.4,63.0,Green,Test,206.3,True,False,5.5,39.7,Balanced
+Adelaide Oval,Rainy,18.0,77.7,Dusty,T20,192.1,True,True,5.5,32.0,Balanced
+Adelaide Oval,Rainy,27.7,43.1,Cracked,Test,243.0,True,False,2.6,48.0,Balanced
+Eden Gardens,Windy,35.5,69.6,Dry,Test,360.94989762548346,False,False,3.9020661986814225,5.081173050843983,High Runs
+Wankhede Stadium,Overcast,36.3,87.2,Dusty,T20,243.4,False,True,2.9,45.1,Balanced
+MCG,Windy,27.9,76.5,Flat,ODI,237.3,True,False,4.6,13.2,Balanced
+SCG,Overcast,34.3,43.3,Flat,ODI,310.6,True,False,3.4,24.4,Balanced
+Wankhede Stadium,Overcast,34.6,72.1,Flat,Test,269.4,False,True,2.7,19.6,Balanced
+Wankhede Stadium,Rainy,23.0,59.6,Green,ODI,287.2,True,False,5.5,36.8,Balanced
+MCG,Sunny,23.8,58.6,Dry,T20,258.7,False,False,4.4,27.0,Balanced
+Adelaide Oval,Cloudy,22.9,37.7,Dry,ODI,453.3133862225062,False,False,3.6551525314823103,28.300402623015717,High Runs
+Lords,Rainy,17.7,37.5,Dry,Test,377.3,False,False,5.8,41.1,Balanced
+Wankhede Stadium,Sunny,28.3,32.4,Dusty,ODI,272.18218377844346,True,True,6.4462276247225425,59.771354199960584,Low Runs
+SCG,Windy,15.9,31.8,Flat,T20,389.3100794365778,False,False,1.627168411932483,30.423939783567178,High Runs
+Lords,Sunny,28.7,37.1,Flat,ODI,270.9,False,True,4.4,26.6,Balanced
+Lords,Sunny,26.7,31.6,Flat,ODI,170.5,True,True,2.7,42.6,Balanced
+Adelaide Oval,Overcast,36.7,41.3,Flat,Test,395.8,True,True,4.0,26.5,Balanced
+Eden Gardens,Rainy,18.3,85.8,Flat,T20,464.00519026286486,False,True,3.1554285888723097,1.4224340709391257,High Runs
+Wankhede Stadium,Windy,32.2,45.8,Dusty,Test,287.4,False,False,4.7,46.0,Balanced
+Eden Gardens,Windy,21.8,73.8,Flat,T20,482.4278639786546,True,False,1.7030811569991786,32.99751185047349,High Runs
+Lords,Overcast,28.3,35.6,Flat,Test,182.42788368579454,False,False,6.78374012426386,45.833049013116245,Low Runs
+Eden Gardens,Rainy,36.1,61.9,Green,T20,207.4,True,False,2.6,35.6,Balanced
+MCG,Overcast,20.8,32.0,Cracked,ODI,335.5,True,False,4.3,45.0,Balanced
+MCG,Sunny,35.8,34.2,Cracked,ODI,233.9,False,True,3.3,27.7,Balanced
+Adelaide Oval,Windy,27.9,47.6,Dry,ODI,319.4,False,True,4.9,32.6,Balanced
+SCG,Sunny,35.6,32.7,Flat,Test,178.7,True,False,4.4,11.9,Balanced
+Lords,Overcast,33.0,81.7,Flat,T20,216.35361905689155,False,False,4.484013765939713,32.01625433623969,Low Runs
+MCG,Overcast,32.5,47.0,Dusty,T20,316.15918917305424,False,True,3.014971533823038,41.0275524695366,Low Runs
+Wankhede Stadium,Windy,23.2,51.4,Dry,T20,97.61731072184472,True,False,6.584465950433219,42.75256198451926,Low Runs
+SCG,Cloudy,36.2,62.8,Dusty,Test,194.9,False,True,2.1,11.1,Balanced
+Lords,Rainy,15.2,88.8,Flat,ODI,213.6,False,False,3.3,20.5,Balanced
+Wankhede Stadium,Cloudy,24.5,61.7,Dusty,T20,337.7950640038857,False,False,5.180253377225875,31.734027606788985,High Runs
+Lords,Windy,39.6,80.5,Dusty,Test,198.2,True,True,3.0,22.5,Balanced
+Eden Gardens,Cloudy,26.4,59.8,Cracked,ODI,229.1,True,True,3.5,18.7,Balanced
+SCG,Sunny,21.3,69.2,Green,T20,177.30348579668455,False,False,6.686422325137857,53.873025318325936,Low Runs
+Eden Gardens,Cloudy,36.1,35.5,Green,T20,125.4577207313329,True,False,6.419947324318564,50.14721577831957,Low Runs
+SCG,Windy,19.2,43.8,Flat,Test,199.0,False,False,2.3,26.7,Balanced
+Adelaide Oval,Sunny,18.5,62.2,Green,Test,291.4,True,False,2.5,25.9,Balanced
+SCG,Sunny,32.2,84.0,Green,Test,349.3936195821575,True,True,1.3264608312954387,15.236449031349501,High Runs
+MCG,Cloudy,17.2,70.4,Green,T20,424.66400637271045,False,False,3.2623836568785842,25.918364445745624,High Runs
+Eden Gardens,Sunny,23.0,83.3,Green,ODI,204.1,False,False,2.3,11.2,Balanced
+MCG,Overcast,39.4,40.5,Dry,ODI,317.7,True,True,2.9,14.7,Balanced
+Lords,Sunny,39.1,36.1,Dusty,Test,125.2094562355297,True,False,6.433138475492477,41.35229272103795,Low Runs
+Lords,Rainy,28.9,73.2,Cracked,Test,350.7,True,True,3.6,32.6,Balanced
+Wankhede Stadium,Sunny,15.3,39.8,Dusty,ODI,167.1,True,True,3.1,42.3,Balanced
+Eden Gardens,Cloudy,18.0,71.6,Flat,ODI,298.8,True,True,5.4,46.4,Balanced
+MCG,Sunny,19.0,73.4,Dusty,ODI,108.9895747187089,True,False,5.206870157207353,19.42264277206309,Low Runs
+Adelaide Oval,Rainy,37.9,44.9,Green,T20,311.4,False,False,5.9,23.9,Balanced
+MCG,Rainy,21.8,71.1,Cracked,Test,239.4,False,True,4.6,29.5,Balanced
+MCG,Cloudy,18.6,44.3,Flat,T20,435.7369519727715,True,False,1.6590264136673671,29.407616121809042,High Runs
+MCG,Cloudy,25.3,67.8,Dusty,Test,262.9018372148172,True,False,4.552503031846579,8.728916572493597,High Runs
+MCG,Windy,26.0,41.1,Cracked,T20,247.66440884975864,True,True,3.2022330432923027,24.016226841302647,High Runs
+Wankhede Stadium,Windy,36.9,59.4,Dusty,T20,188.6,True,True,4.4,18.6,Balanced
+MCG,Sunny,37.2,75.7,Dusty,T20,404.6787041564209,True,True,1.8977197537035195,21.102092274206143,High Runs
+Lords,Cloudy,35.0,33.1,Cracked,T20,425.3702681092416,True,False,2.813842652312264,38.29228538425794,High Runs
+Adelaide Oval,Cloudy,15.1,69.3,Cracked,Test,350.6,True,False,4.9,49.9,Balanced
+MCG,Windy,20.6,48.1,Dry,T20,352.0,False,False,3.4,41.6,Balanced
+SCG,Sunny,29.2,55.8,Cracked,ODI,163.1,True,True,2.4,19.6,Balanced
+Adelaide Oval,Sunny,21.4,74.1,Dusty,Test,99.67757163816819,False,False,4.580230346602988,27.330094327981797,Low Runs
+SCG,Overcast,21.5,86.7,Dusty,ODI,360.06865663938004,True,False,2.0043361390263823,10.580756510881791,High Runs
+Adelaide Oval,Rainy,29.8,67.0,Cracked,Test,348.463892316147,True,False,4.957213618384602,39.781181558602206,High Runs
+SCG,Rainy,32.9,77.0,Dry,T20,215.16115528047044,False,False,2.978824588802463,31.21865059080361,Low Runs
+Eden Gardens,Sunny,23.3,59.1,Green,ODI,322.1,True,True,2.5,37.5,Balanced
+Adelaide Oval,Overcast,23.1,70.5,Green,T20,183.5,False,False,2.6,11.9,Balanced
+Wankhede Stadium,Windy,15.1,88.6,Cracked,Test,432.06980731941974,True,False,2.8727564277659963,7.184610244549376,High Runs
+SCG,Overcast,39.2,53.2,Dry,Test,315.06187741724034,True,False,2.5273739120337146,14.003126595521152,High Runs
+SCG,Overcast,15.8,69.3,Flat,Test,278.56689952055876,False,True,1.9152603459332598,11.10310658935911,High Runs
+Eden Gardens,Sunny,18.4,82.2,Flat,T20,187.9,True,True,3.6,11.0,Balanced
+SCG,Rainy,32.3,44.5,Green,T20,314.7,False,True,4.1,44.3,Balanced
+MCG,Cloudy,17.2,37.0,Dusty,Test,179.4,False,False,4.5,48.1,Balanced
+Adelaide Oval,Windy,39.9,54.3,Cracked,Test,192.4,False,True,4.1,47.0,Balanced
+MCG,Overcast,27.2,77.4,Cracked,ODI,408.60783143548827,False,False,1.297347587458491,0.5655631456200041,High Runs
+Adelaide Oval,Cloudy,32.8,89.4,Cracked,T20,123.86186525100501,True,True,5.888940395852309,35.638139363681375,Low Runs
+Adelaide Oval,Sunny,17.2,34.2,Green,Test,396.8,True,True,3.2,32.2,Balanced
+Wankhede Stadium,Rainy,24.7,83.2,Dusty,ODI,262.5,True,True,4.3,19.4,Balanced
+Adelaide Oval,Windy,20.2,70.1,Green,ODI,413.2031929256809,False,True,4.381306964618252,33.40539870266264,High Runs
+Wankhede Stadium,Cloudy,36.0,52.9,Dry,T20,325.2501230528641,False,True,3.018734576720081,-1.1362751284912278,High Runs
+Adelaide Oval,Windy,32.0,67.7,Flat,Test,170.2,False,True,5.3,49.4,Balanced
+Wankhede Stadium,Rainy,15.7,39.8,Green,T20,260.7,False,True,5.8,29.9,Balanced
+Eden Gardens,Overcast,27.6,56.0,Dry,Test,300.4950242761153,False,False,4.72781041104928,20.56368929048409,High Runs
+Eden Gardens,Overcast,26.2,42.9,Dusty,Test,272.1639207974598,True,True,3.501159190133629,18.129520004118497,High Runs
+Wankhede Stadium,Windy,27.8,52.6,Dry,Test,271.53081511496896,False,True,3.930199505025953,26.243203306332163,Low Runs
+SCG,Sunny,28.8,51.3,Cracked,Test,375.8919882039776,True,True,2.9901942314776164,6.99620965155049,High Runs
+Wankhede Stadium,Windy,27.2,90.0,Flat,ODI,293.367809168758,True,True,4.507295269225596,41.82664938356683,Low Runs
+Adelaide Oval,Overcast,30.5,66.4,Flat,Test,275.8,False,False,4.5,30.8,Balanced
+SCG,Rainy,36.1,76.0,Green,ODI,63.090255393071004,True,False,6.655052972237177,43.65095467996715,Low Runs
+Adelaide Oval,Sunny,24.2,70.9,Cracked,T20,305.2,False,True,4.1,20.9,Balanced
+Lords,Sunny,29.7,88.4,Cracked,Test,88.55110891456522,True,True,5.034806663871983,55.36229922147372,Low Runs
+SCG,Cloudy,16.0,62.8,Green,ODI,251.6,True,True,3.5,40.9,Balanced
+SCG,Rainy,27.0,88.0,Cracked,T20,360.3498919393062,True,True,3.309698269011676,34.05257195269941,High Runs
+Wankhede Stadium,Cloudy,31.2,81.0,Dusty,ODI,162.0,False,False,3.3,40.1,Balanced
+Eden Gardens,Windy,18.1,45.5,Cracked,Test,377.9,False,False,5.0,40.7,Balanced
+Wankhede Stadium,Cloudy,22.0,32.7,Green,Test,319.7,False,False,3.1,13.7,Balanced
+SCG,Sunny,25.0,52.1,Dry,ODI,241.0,False,True,3.8,39.6,Balanced
+Eden Gardens,Overcast,33.2,82.0,Cracked,ODI,118.07440310993309,False,True,7.312423940987706,33.38630552689969,Low Runs
+SCG,Overcast,37.1,79.0,Cracked,Test,302.52628750481426,False,False,6.457428094281187,45.000115314549625,Low Runs
+Lords,Overcast,35.2,39.5,Dusty,Test,157.1,False,False,5.1,30.9,Balanced
+Wankhede Stadium,Cloudy,21.4,60.1,Green,ODI,335.4215059559477,False,False,5.030343895470697,4.159301345765382,High Runs
+Lords,Rainy,17.3,55.9,Dry,T20,276.2,False,False,4.2,32.2,Balanced
+SCG,Cloudy,21.9,78.6,Dry,ODI,212.0,False,True,2.1,19.6,Balanced
+MCG,Overcast,20.1,55.4,Flat,T20,286.9510106825891,True,False,1.0823661673597025,36.37384562746452,High Runs
+SCG,Overcast,16.8,83.9,Green,T20,354.46922971303945,True,True,3.2178190755626312,2.40185828650171,High Runs
+MCG,Overcast,25.7,87.5,Green,ODI,307.8,False,True,3.7,17.6,Balanced
+SCG,Windy,39.8,43.7,Cracked,Test,189.6,False,True,4.5,28.5,Balanced
+Lords,Windy,29.2,38.4,Cracked,T20,267.35148518944055,True,True,1.9356012204469328,33.52462870593702,High Runs
+SCG,Cloudy,23.1,35.3,Cracked,Test,344.7,False,True,2.8,29.8,Balanced
+Adelaide Oval,Cloudy,17.9,70.6,Cracked,T20,186.78750910872793,False,False,6.181981427562521,56.12294112811035,Low Runs
+MCG,Windy,36.7,56.4,Green,ODI,273.9,False,False,4.8,31.7,Balanced
+MCG,Sunny,17.4,49.4,Cracked,T20,273.9,True,True,3.1,21.9,Balanced
+SCG,Sunny,29.3,66.3,Dry,Test,180.5,False,False,3.9,42.4,Balanced
+Lords,Cloudy,39.6,32.1,Dry,ODI,57.78312298666859,False,True,6.026866039545958,29.169969959538548,Low Runs
+Lords,Windy,33.3,38.3,Flat,Test,277.4,True,True,4.7,41.6,Balanced
+Wankhede Stadium,Overcast,22.8,86.1,Dusty,T20,283.8,True,True,3.4,43.2,Balanced
+Adelaide Oval,Rainy,35.7,81.2,Green,ODI,248.9005049119067,False,False,6.970051310093009,41.7864498213918,Low Runs
+SCG,Sunny,28.2,70.5,Cracked,ODI,153.17611096688125,False,False,3.1145130656027393,37.93730312925286,Low Runs
+MCG,Rainy,17.7,52.8,Flat,ODI,274.05027919762904,False,True,1.7501365653560739,8.878655707614008,High Runs
+Adelaide Oval,Windy,30.9,52.0,Dusty,ODI,304.36458841463633,True,True,6.426889727262485,36.540889916742145,Low Runs
+SCG,Windy,24.1,47.3,Dry,Test,206.0,True,False,2.6,35.2,Balanced
+Eden Gardens,Rainy,28.0,58.8,Green,Test,215.44270222734303,False,False,5.587361421921516,31.95903345182482,Low Runs
+Lords,Rainy,29.7,53.8,Dusty,T20,217.77650981543343,False,False,5.055701501642883,41.06463693897763,Low Runs
+Lords,Windy,27.1,61.2,Cracked,Test,376.8,False,True,3.9,27.5,Balanced
+Adelaide Oval,Overcast,27.6,48.3,Dusty,T20,313.39371438591303,False,True,4.564293848089594,40.15617431448184,Low Runs
+SCG,Overcast,17.5,36.4,Dusty,ODI,299.9089880362562,False,True,5.084821125718623,29.56723237928114,Low Runs
+Lords,Overcast,33.0,52.1,Flat,Test,331.34950138309483,True,False,1.344841836813489,28.971366277265147,High Runs
+Wankhede Stadium,Rainy,37.2,31.6,Green,T20,144.38861664680263,True,False,5.4796346905193385,29.60905058258332,Low Runs
+Wankhede Stadium,Windy,25.9,31.2,Dusty,T20,291.4,False,False,5.4,26.8,Balanced
+Adelaide Oval,Cloudy,33.0,82.2,Cracked,T20,304.3765276323819,False,False,2.5532987810625185,10.66705295041108,High Runs
+Wankhede Stadium,Sunny,29.7,72.4,Dry,Test,313.4,False,False,5.7,16.3,Balanced
+Eden Gardens,Overcast,21.4,63.8,Dusty,ODI,435.9240650047475,True,False,4.363002696551973,34.119500031325614,High Runs
+SCG,Windy,25.6,56.9,Flat,ODI,173.16215935906885,True,True,5.929681683953093,46.97070391291594,Low Runs
+Adelaide Oval,Sunny,38.0,50.6,Green,T20,268.8133085141516,False,False,3.504914702567688,9.277323517580339,High Runs
+Eden Gardens,Sunny,20.4,50.9,Dry,ODI,348.5,False,True,2.8,17.6,Balanced
+SCG,Rainy,37.9,32.4,Cracked,ODI,347.9,False,False,3.5,46.6,Balanced
+Adelaide Oval,Sunny,22.5,50.0,Dry,T20,94.11006823270813,True,True,5.092259052048231,43.64566378283733,Low Runs
+Wankhede Stadium,Rainy,28.2,49.9,Green,ODI,192.3,True,False,4.4,42.3,Balanced
+Lords,Windy,16.8,37.0,Green,ODI,205.0,False,False,4.2,41.4,Balanced
+Lords,Overcast,38.5,73.7,Cracked,ODI,233.8,False,False,5.0,34.5,Balanced
+Wankhede Stadium,Rainy,39.6,87.2,Cracked,ODI,361.19484419448236,True,True,4.640807087662019,28.51098269151645,High Runs
+SCG,Sunny,24.2,82.5,Dry,Test,410.06541662206405,False,True,2.7517775621960334,11.633735487593516,High Runs
+Lords,Rainy,36.6,66.1,Green,T20,204.97872876902983,True,False,4.041713905800645,51.26700746541924,Low Runs
+Adelaide Oval,Cloudy,19.0,54.6,Cracked,ODI,276.5100264468997,False,False,4.207782267822491,13.393292315217689,High Runs
+MCG,Windy,35.3,59.3,Green,T20,201.0,True,True,3.8,33.8,Balanced
+Wankhede Stadium,Sunny,34.8,42.6,Cracked,T20,200.3,False,True,4.6,27.1,Balanced
+MCG,Windy,28.1,85.9,Green,ODI,310.9,True,False,4.2,48.8,Balanced
+Eden Gardens,Cloudy,22.8,89.7,Green,T20,181.1,True,False,3.6,37.2,Balanced
+Lords,Overcast,32.1,64.2,Cracked,Test,76.6744845941362,True,False,6.616140938506874,28.234658308349076,Low Runs
+Lords,Rainy,35.9,88.5,Dry,Test,399.5,True,False,3.0,16.3,Balanced
+Adelaide Oval,Cloudy,37.9,54.1,Dry,T20,283.9710243352266,True,True,1.745769248001368,22.34671631215048,High Runs
+MCG,Rainy,15.4,79.3,Flat,Test,88.09176449420681,True,False,7.0250572105186535,29.41055080270518,Low Runs
+Eden Gardens,Windy,39.7,83.3,Flat,ODI,356.8775209109275,True,False,2.6823299117070083,14.803898220763267,High Runs
+Eden Gardens,Overcast,30.8,40.7,Dry,ODI,268.8,False,True,4.1,14.4,Balanced
+Lords,Rainy,18.8,57.5,Dusty,Test,269.9204606051045,True,True,4.6045777003211095,26.18752142132579,High Runs
+SCG,Cloudy,38.0,81.9,Dusty,T20,192.6,False,True,2.2,14.2,Balanced
+Eden Gardens,Overcast,30.8,40.5,Dusty,ODI,269.7,False,False,2.3,19.4,Balanced
+SCG,Sunny,36.5,89.8,Cracked,ODI,457.8787563380877,False,False,5.144842641222666,42.4283997894126,High Runs
+MCG,Cloudy,19.4,75.9,Cracked,T20,276.8,False,False,4.0,46.7,Balanced
+Eden Gardens,Overcast,16.1,50.1,Dry,ODI,346.2,True,False,5.2,18.9,Balanced
+Lords,Rainy,25.4,54.4,Cracked,T20,135.67875307685873,True,True,4.055000939556248,52.8135091763583,Low Runs
+SCG,Sunny,32.3,42.3,Dusty,Test,396.1032012496378,False,True,4.233427557027109,16.589427280237345,High Runs
+Wankhede Stadium,Windy,31.4,56.1,Flat,T20,296.06521670214744,True,True,2.9759820686459366,20.712217150134734,High Runs
+Lords,Rainy,37.4,52.6,Dry,ODI,468.62821093104765,False,True,4.724386719877593,24.85484160267456,High Runs
+MCG,Sunny,39.4,35.9,Cracked,Test,241.75220267184238,True,False,3.304322310729198,33.40668313026836,High Runs
+SCG,Windy,32.4,81.4,Dry,ODI,363.6,True,False,3.7,25.5,Balanced
+MCG,Overcast,19.9,42.9,Dry,ODI,349.76423501599874,False,False,2.501853869137772,26.356952945701153,High Runs
+Adelaide Oval,Windy,21.3,85.9,Green,T20,364.4,True,True,3.0,35.1,Balanced
+Eden Gardens,Sunny,26.4,88.4,Dusty,Test,345.4,False,True,5.9,46.2,Balanced
+MCG,Rainy,36.0,37.5,Dry,ODI,229.4,True,False,4.8,21.3,Balanced
+Wankhede Stadium,Sunny,29.9,80.7,Green,ODI,472.15951963145193,True,True,3.629207509267623,19.556685417303193,High Runs
+Adelaide Oval,Windy,22.1,72.2,Dry,ODI,289.9446513697684,True,True,1.4732345164278973,31.714867635773864,High Runs
+Wankhede Stadium,Overcast,38.5,72.6,Flat,T20,153.0093360309467,True,True,5.24110619907314,50.132876579873894,Low Runs
+Adelaide Oval,Cloudy,29.1,34.4,Cracked,Test,249.5767272148603,True,True,4.590408572758467,26.476036132758658,High Runs
+SCG,Overcast,19.2,84.3,Flat,ODI,372.85589482495163,False,True,1.3978398844889677,13.750326181745237,High Runs
+Wankhede Stadium,Cloudy,32.7,82.0,Green,Test,295.8,False,True,3.0,36.4,Balanced
+Lords,Cloudy,25.2,44.3,Cracked,Test,357.5,False,False,4.9,17.3,Balanced
+MCG,Sunny,37.8,37.1,Cracked,T20,276.6,True,False,3.3,23.0,Balanced
+MCG,Sunny,24.4,85.4,Flat,ODI,258.83026288177405,False,True,3.5356685827910663,20.28655820463243,High Runs
+Wankhede Stadium,Rainy,33.9,56.9,Flat,T20,127.56539360540819,False,True,6.7577098502018185,52.06917555350314,Low Runs
+Wankhede Stadium,Sunny,25.9,54.7,Cracked,Test,390.1706058655369,False,False,2.4106803939250603,26.00701632476039,High Runs
+Wankhede Stadium,Cloudy,16.7,78.5,Green,ODI,384.65816613339655,True,False,3.2903495189837177,19.4430944277198,High Runs
+SCG,Windy,38.7,30.2,Green,ODI,215.7,True,True,3.9,26.1,Balanced
+Wankhede Stadium,Sunny,17.4,50.7,Dusty,ODI,350.8,False,False,5.7,24.7,Balanced
+Wankhede Stadium,Sunny,24.8,89.7,Cracked,T20,214.3,False,False,4.1,45.1,Balanced
+Eden Gardens,Windy,28.5,85.0,Dusty,T20,337.0,True,True,4.9,42.3,Balanced
+Lords,Overcast,28.8,52.9,Green,ODI,249.3,True,True,3.0,38.0,Balanced
+Adelaide Oval,Overcast,34.8,33.2,Flat,ODI,238.42258110777325,False,True,3.80033443756391,64.60644798501457,Low Runs
+Eden Gardens,Windy,16.7,60.3,Cracked,Test,324.8921327331877,False,True,2.215504907975261,9.50177412303085,High Runs
+Wankhede Stadium,Rainy,16.2,65.7,Dry,T20,265.1,False,False,4.5,24.5,Balanced
+Lords,Sunny,22.2,80.8,Dusty,T20,276.3016933382104,False,True,3.5445882000014413,25.39687191934975,Low Runs
+Eden Gardens,Cloudy,38.0,65.3,Dusty,ODI,283.6,False,True,2.9,15.0,Balanced
+MCG,Windy,27.5,65.2,Dry,T20,208.90285796045458,True,False,1.9169829278282817,38.42025108073199,High Runs
+Lords,Sunny,26.0,39.3,Flat,ODI,296.1,False,True,5.4,31.7,Balanced
+MCG,Overcast,28.4,60.1,Cracked,ODI,282.4,False,False,2.4,35.6,Balanced
+MCG,Cloudy,37.4,81.5,Cracked,ODI,297.8,True,False,4.6,45.0,Balanced
+Eden Gardens,Overcast,39.3,68.4,Cracked,ODI,312.5,False,True,2.4,27.8,Balanced
+Wankhede Stadium,Overcast,27.7,59.8,Flat,Test,181.0,False,True,2.0,10.3,Balanced
+SCG,Overcast,18.2,38.7,Cracked,Test,255.6,False,True,5.4,31.2,Balanced
+Wankhede Stadium,Cloudy,19.9,56.6,Dusty,T20,217.6,False,False,5.5,28.6,Balanced
+Adelaide Oval,Overcast,37.2,78.0,Dry,Test,270.4,True,False,2.9,31.7,Balanced
+MCG,Overcast,34.4,48.2,Cracked,ODI,261.4,True,True,2.2,38.5,Balanced
+Lords,Rainy,15.7,78.2,Flat,ODI,360.33276176953785,False,True,1.616408475958719,0.5282452502590527,High Runs
+SCG,Overcast,15.7,69.9,Cracked,Test,349.1323431364216,False,True,3.8501848876035187,10.797089803535048,High Runs
+Eden Gardens,Cloudy,36.7,67.4,Green,Test,125.45726983910014,False,True,5.173899611740298,33.890997988646006,Low Runs
+Wankhede Stadium,Sunny,21.5,64.6,Green,ODI,211.1447222481158,True,True,4.693252060387623,5.904444394059265,High Runs
+Lords,Overcast,16.6,80.2,Green,Test,299.3593677023297,False,False,6.467818129497031,48.48547004005576,Low Runs
+Adelaide Oval,Windy,24.8,59.6,Flat,Test,305.5,True,False,4.2,25.8,Balanced
+Adelaide Oval,Overcast,18.7,30.1,Flat,Test,213.451636536845,True,True,2.503452014751942,3.1639879678089997,High Runs
+Adelaide Oval,Overcast,19.8,82.5,Dusty,ODI,339.4,False,False,5.9,46.8,Balanced
+Wankhede Stadium,Overcast,20.4,30.4,Cracked,ODI,451.362538102945,True,True,2.5700710269543228,17.432183297560755,High Runs
+Eden Gardens,Rainy,32.7,66.8,Green,ODI,167.0931453450567,True,False,5.727807345501887,50.48424554523643,Low Runs
+Adelaide Oval,Cloudy,29.2,81.5,Dry,Test,313.89537232671404,False,False,4.193855634239408,15.505710779784652,High Runs
+SCG,Cloudy,32.5,65.0,Green,T20,247.86900085762994,True,False,6.5584332204049085,29.519140943446132,Low Runs
+Adelaide Oval,Windy,37.6,67.6,Green,Test,319.3,False,False,4.9,13.2,Balanced
+Eden Gardens,Overcast,30.3,66.9,Dry,ODI,395.6433204385449,False,False,1.7322576767209763,42.665651400332834,High Runs
+SCG,Windy,27.3,81.1,Flat,T20,201.53047560367355,True,True,4.079905137835771,49.0825849241365,Low Runs
+Eden Gardens,Cloudy,36.4,72.6,Dusty,T20,438.2320911708403,False,True,4.599439115334212,7.530653323990958,High Runs
+Wankhede Stadium,Sunny,34.0,37.2,Cracked,ODI,468.252012473357,False,False,4.452198116566815,29.027162421698122,High Runs
+MCG,Windy,23.5,54.2,Cracked,ODI,331.6971004449607,True,True,3.0606240962212334,44.54882751864476,Low Runs
+SCG,Cloudy,19.6,67.3,Flat,Test,334.88808213978075,False,False,3.5127506685453045,6.638254786684692,High Runs
+Adelaide Oval,Windy,27.1,74.9,Flat,ODI,230.1760768161277,True,False,4.63821287969761,46.36318320041554,Low Runs
+MCG,Overcast,21.5,73.9,Green,Test,467.98315080719664,False,False,4.5129234628002735,8.300585107421435,High Runs
+SCG,Overcast,20.0,81.6,Flat,Test,330.2,True,True,3.1,19.3,Balanced
+SCG,Sunny,20.6,31.4,Flat,Test,95.66596298642415,True,False,5.939984272499223,40.90803238632452,Low Runs
+SCG,Windy,16.7,63.7,Cracked,Test,339.1,True,True,4.6,10.2,Balanced
+Eden Gardens,Overcast,25.4,34.8,Flat,T20,199.2,True,True,2.4,48.1,Balanced
+Adelaide Oval,Cloudy,17.6,41.6,Dusty,Test,75.5133107652118,False,False,3.121737585376802,39.88333018998338,Low Runs
+MCG,Windy,26.6,74.6,Flat,T20,234.8,False,False,5.3,22.5,Balanced
+MCG,Cloudy,24.9,54.9,Green,T20,263.0,True,False,3.8,15.3,Balanced
+MCG,Rainy,22.1,56.1,Flat,T20,307.3,True,True,4.1,31.5,Balanced
+Wankhede Stadium,Overcast,34.0,66.3,Green,Test,395.78059842631296,False,True,1.6218106281964277,7.5802163042329385,High Runs
+MCG,Cloudy,25.1,75.9,Green,T20,386.1,False,True,2.6,24.4,Balanced
+Eden Gardens,Windy,26.3,49.5,Cracked,Test,276.65414375249435,False,True,5.05362336875346,26.828958742449892,Low Runs
+Lords,Rainy,15.5,68.4,Dusty,Test,273.0110287740658,False,False,1.8689977273457072,39.285067660352844,High Runs
+SCG,Cloudy,19.0,37.0,Flat,T20,316.6806707721852,True,True,4.19810235671019,26.96993388749371,High Runs
+Lords,Rainy,33.5,31.5,Dry,Test,162.8,True,False,4.4,39.4,Balanced
+Eden Gardens,Windy,29.8,45.9,Flat,T20,99.03710471281326,False,True,5.02324602956057,29.186635342614828,Low Runs
+Adelaide Oval,Sunny,16.2,89.9,Flat,T20,93.40966212490213,False,False,3.8804830302399616,48.72690659066903,Low Runs
+Eden Gardens,Windy,23.8,70.4,Dusty,Test,399.0,False,True,4.6,46.5,Balanced
+Eden Gardens,Overcast,18.7,57.9,Cracked,T20,415.08148242136446,False,True,1.9195827964234735,24.74459382806651,High Runs
+Lords,Windy,34.3,60.3,Dusty,Test,430.69084551008643,True,True,3.874403744682306,12.652550604849253,High Runs
+Wankhede Stadium,Rainy,33.0,76.1,Dusty,Test,163.2,False,True,5.2,29.7,Balanced
+SCG,Cloudy,18.2,48.6,Flat,Test,429.87519103895085,True,False,1.7975730353758073,10.676526670394498,High Runs
+Wankhede Stadium,Sunny,24.7,44.4,Green,ODI,392.1,False,False,3.8,48.3,Balanced
+Adelaide Oval,Windy,29.6,79.3,Green,T20,339.7584510432814,False,False,6.427265813013526,40.59493237569793,Low Runs
+Adelaide Oval,Overcast,24.9,73.2,Flat,T20,275.9660583994306,True,True,2.096251808747052,-0.20249534045953332,High Runs
+Lords,Overcast,34.5,89.0,Cracked,ODI,275.8,False,True,5.0,33.4,Balanced
+Adelaide Oval,Sunny,25.1,82.4,Dusty,T20,251.3,True,False,4.8,29.9,Balanced
+Adelaide Oval,Overcast,25.6,45.9,Green,ODI,337.31571688980443,False,True,2.1036360560162857,38.8531492547881,High Runs
+SCG,Sunny,18.0,37.7,Green,ODI,383.23409378802944,True,False,4.942139734385875,18.829521187016336,High Runs
+Adelaide Oval,Cloudy,20.5,84.4,Green,ODI,322.9692582506177,False,True,1.856353389868603,35.354642505341744,High Runs
+MCG,Windy,39.0,84.2,Flat,Test,338.2,False,False,5.1,22.0,Balanced
+SCG,Cloudy,35.1,66.4,Green,T20,387.5,False,False,3.3,44.5,Balanced
+Wankhede Stadium,Cloudy,18.0,31.4,Dry,Test,386.7,True,False,2.4,21.9,Balanced
+SCG,Overcast,39.8,84.9,Dusty,T20,179.8,True,False,3.0,14.1,Balanced
+Adelaide Oval,Cloudy,15.5,76.7,Dry,T20,238.24048222358755,True,True,4.861899857547921,16.43557426262548,Low Runs
+Wankhede Stadium,Cloudy,28.1,69.2,Flat,Test,281.81863508261415,True,False,2.9741009595461487,39.24527164056698,High Runs
+Lords,Windy,32.0,31.9,Dry,ODI,181.7,False,False,2.4,46.5,Balanced
+Lords,Windy,30.3,50.1,Cracked,Test,241.3,False,True,2.9,16.2,Balanced
+Lords,Overcast,39.1,46.0,Dusty,T20,336.2,True,True,3.0,27.7,Balanced
+Lords,Windy,26.9,64.2,Dusty,ODI,300.59066325378956,True,False,4.392908369043384,17.612536078083934,High Runs
+Lords,Overcast,36.1,54.6,Dry,Test,112.10227217747337,True,False,3.876298084198478,44.74587707498674,Low Runs
+Adelaide Oval,Overcast,23.7,36.7,Dry,Test,52.774036747785615,True,True,5.890125042140399,32.50262450204179,Low Runs
+SCG,Rainy,22.0,70.1,Dusty,Test,259.24041682372064,False,False,5.114702238632181,48.81813529545586,Low Runs
+SCG,Sunny,35.7,76.5,Cracked,Test,293.3078382966431,True,False,2.9112471858165203,18.603475105458273,High Runs
+Wankhede Stadium,Overcast,23.2,49.6,Green,ODI,123.18045267603176,False,False,4.650563446173376,50.65738394837897,Low Runs
+Adelaide Oval,Rainy,16.5,74.1,Dusty,ODI,304.15392203593063,False,True,3.642342704272779,25.799370423918756,Low Runs
+Eden Gardens,Cloudy,39.4,55.9,Cracked,T20,284.7939765090889,True,False,0.9575197038093259,16.58367693241499,High Runs
+Wankhede Stadium,Overcast,30.2,89.8,Dry,ODI,114.15677520285617,True,True,3.4439806256164673,37.429960511657484,Low Runs
+Lords,Sunny,38.9,39.1,Dry,Test,344.50908922896576,True,True,2.535121069741708,10.769663839362572,High Runs
+Wankhede Stadium,Overcast,22.1,78.9,Dusty,T20,136.61444182108545,False,False,5.475035477346402,55.26735275425951,Low Runs
+Wankhede Stadium,Overcast,25.2,77.7,Dry,ODI,321.1250462218014,False,False,0.8750262764303676,31.814115926716998,High Runs
+Adelaide Oval,Overcast,17.2,78.3,Green,ODI,289.5580468308134,True,True,3.9497175806240037,27.99261912371888,High Runs
+MCG,Windy,23.3,82.5,Dusty,Test,368.4,True,True,4.4,48.0,Balanced
+MCG,Cloudy,29.5,34.2,Flat,Test,190.3,False,False,4.7,31.2,Balanced
+SCG,Sunny,31.4,41.5,Green,ODI,414.3580832329329,False,True,3.2722676844657137,9.240422514088632,High Runs
+Lords,Windy,36.9,75.5,Dusty,T20,227.8,True,False,2.8,33.3,Balanced
+Eden Gardens,Overcast,32.5,79.5,Green,Test,261.1,False,True,4.2,30.0,Balanced
+MCG,Overcast,28.1,72.1,Flat,T20,388.8,False,False,2.7,49.8,Balanced
+MCG,Overcast,18.5,84.7,Dry,T20,355.0559890886581,False,True,2.4086036916869324,43.404010602500215,High Runs
+MCG,Overcast,39.1,32.6,Cracked,Test,288.3,True,True,4.8,26.3,Balanced
+Adelaide Oval,Overcast,21.8,61.4,Green,ODI,451.0795034797463,True,False,3.6179240980537135,33.11011554539498,High Runs
+MCG,Cloudy,31.2,35.3,Flat,ODI,186.61302285292405,True,False,4.110367005120281,23.791116834398277,Low Runs
+Lords,Windy,22.9,60.1,Flat,T20,195.8514002918959,False,True,4.03919598175202,50.1468666627342,Low Runs
+Wankhede Stadium,Cloudy,35.4,30.5,Cracked,ODI,220.04072931147758,True,False,3.3444113143089114,29.540600822099176,Low Runs
+Wankhede Stadium,Overcast,20.1,68.8,Cracked,ODI,143.05317236454982,False,True,3.9476010267953043,24.639529756311102,Low Runs
+Eden Gardens,Windy,16.5,41.6,Dry,T20,240.4925806937365,True,False,4.102471007215211,9.252408461012235,High Runs
+Wankhede Stadium,Overcast,15.3,66.9,Dry,Test,397.9,False,False,2.0,38.8,Balanced
+Wankhede Stadium,Sunny,18.7,88.2,Cracked,Test,310.79253858734137,False,True,2.1487921536957275,27.810025237810592,High Runs
+SCG,Cloudy,29.3,57.8,Flat,Test,347.2,False,True,4.6,17.4,Balanced
+Eden Gardens,Sunny,15.2,30.3,Dry,Test,441.78887326557833,False,False,1.0599570662980466,36.85406498117051,High Runs
+SCG,Overcast,36.4,71.0,Dry,ODI,373.9562755876427,False,False,0.9450978315823204,32.84387425793322,High Runs
+Adelaide Oval,Rainy,36.1,69.2,Dusty,Test,224.9852902634068,True,True,2.9816057736675896,18.531028464946306,High Runs
+Eden Gardens,Windy,37.2,58.6,Green,ODI,399.9,False,False,5.0,23.5,Balanced
+SCG,Cloudy,25.5,84.6,Cracked,T20,309.8162162671268,True,False,2.7319313798150078,28.104837130700396,High Runs
+Lords,Windy,33.7,71.7,Dusty,ODI,120.55749573977064,True,False,6.324792193059551,34.584027550654646,Low Runs
+Eden Gardens,Sunny,23.5,50.7,Flat,Test,354.4,True,False,5.5,32.9,Balanced
+Adelaide Oval,Rainy,34.5,61.9,Cracked,ODI,251.4,True,False,3.8,10.4,Balanced
+MCG,Cloudy,20.0,87.1,Dusty,ODI,442.0167751535145,False,True,2.756689513348543,36.77871930928666,High Runs
+Eden Gardens,Cloudy,16.4,51.8,Green,Test,372.6,True,False,2.2,42.6,Balanced
+Wankhede Stadium,Windy,32.4,36.4,Cracked,Test,490.5289864811373,True,True,1.7971261871180755,24.08201376108089,High Runs
+Wankhede Stadium,Cloudy,33.8,74.2,Dry,T20,229.99142735219684,True,False,2.657705063385464,45.122586646325644,Low Runs
+Lords,Rainy,27.3,42.0,Cracked,ODI,183.3,False,True,2.5,46.2,Balanced
+MCG,Sunny,19.7,65.1,Flat,Test,384.3,True,False,2.8,28.3,Balanced
+MCG,Cloudy,19.7,67.7,Cracked,T20,342.6148663515686,False,False,0.8517228151556531,13.712137504626591,High Runs
+Wankhede Stadium,Windy,37.7,60.6,Cracked,T20,361.5376049892917,True,True,2.634864114133937,6.1392265283620935,High Runs
+Lords,Windy,18.8,38.6,Cracked,T20,201.12887217390772,True,True,6.92307081319769,57.71339942673076,Low Runs
+MCG,Overcast,37.1,84.5,Flat,T20,401.1040060046211,True,True,2.262264567926976,24.21919944905686,High Runs
+SCG,Cloudy,25.8,84.4,Green,ODI,377.914438181331,False,False,2.5241259502950406,19.873044564245035,High Runs
+MCG,Cloudy,32.0,43.3,Green,Test,280.95875259538434,True,False,1.367356577978141,30.957029612059763,High Runs
+MCG,Overcast,28.5,37.8,Flat,Test,427.60830993232224,False,True,4.82941771981114,29.834210216475057,High Runs
+Lords,Sunny,30.1,79.3,Dusty,T20,346.6441424189503,True,True,0.9896676915969447,18.163051193269187,High Runs
+Adelaide Oval,Cloudy,25.7,89.0,Green,Test,209.7,False,False,5.9,11.0,Balanced
+MCG,Overcast,17.3,56.5,Flat,ODI,359.9018517840004,False,False,1.8752456229111714,23.189824922023405,High Runs
+Eden Gardens,Sunny,35.3,86.2,Cracked,ODI,312.0717373388017,False,True,3.369222723178127,31.692878691094265,High Runs
+MCG,Windy,39.5,60.2,Cracked,T20,410.9778956238506,True,True,1.848543830322268,28.595858061237802,High Runs
+SCG,Cloudy,26.6,52.1,Green,ODI,272.1,True,False,4.0,30.7,Balanced
+Adelaide Oval,Overcast,21.0,53.4,Cracked,T20,367.7,True,False,3.8,44.2,Balanced
+Eden Gardens,Sunny,31.6,50.8,Dusty,ODI,304.4,False,True,3.5,48.3,Balanced
+Lords,Cloudy,21.0,82.4,Dry,Test,258.0,True,True,5.5,15.3,Balanced
+MCG,Rainy,31.8,74.6,Dry,Test,348.85885789807764,False,True,4.482978316195137,28.04252087084165,High Runs
+Lords,Cloudy,23.4,48.0,Dusty,T20,310.5648996260102,False,False,6.432249598441825,28.748692507229222,Low Runs
+SCG,Rainy,29.3,53.5,Dusty,Test,213.9,True,False,4.1,24.1,Balanced
+MCG,Cloudy,20.6,30.7,Cracked,ODI,385.3,True,True,2.5,31.9,Balanced
+Wankhede Stadium,Sunny,26.8,30.9,Cracked,Test,232.7,True,True,5.1,13.5,Balanced
+Adelaide Oval,Windy,18.2,40.4,Dusty,T20,137.38063038121788,False,True,5.4461860588913975,53.160907236374925,Low Runs
+Adelaide Oval,Windy,25.1,87.6,Green,T20,377.7,False,False,5.0,49.4,Balanced
+Adelaide Oval,Sunny,18.7,32.5,Cracked,Test,208.1,False,False,3.5,27.2,Balanced
+Eden Gardens,Cloudy,38.4,74.3,Dry,Test,375.1174232610309,False,False,2.791257868918612,22.259720281813394,High Runs
+SCG,Sunny,22.7,80.1,Dry,ODI,184.9,True,False,2.0,28.0,Balanced
+Adelaide Oval,Overcast,33.8,59.4,Green,Test,154.6,True,False,3.0,22.7,Balanced
+MCG,Rainy,28.3,33.1,Dry,Test,191.4,True,False,2.5,31.2,Balanced
+Wankhede Stadium,Windy,39.2,44.5,Cracked,ODI,427.908121353586,False,True,3.7010108985921195,30.860648760184425,High Runs
+Eden Gardens,Overcast,30.8,69.7,Green,T20,259.6,True,True,5.4,21.5,Balanced
+MCG,Sunny,30.9,46.8,Dusty,ODI,332.92260576460944,True,False,3.347260932134601,40.553185520432976,High Runs
+SCG,Cloudy,20.9,68.8,Green,T20,151.5,True,True,3.6,49.7,Balanced
+Adelaide Oval,Cloudy,19.1,80.7,Dusty,T20,174.6,False,True,2.4,41.2,Balanced
+SCG,Windy,27.8,37.9,Dusty,T20,383.8,False,True,5.4,22.6,Balanced
+Adelaide Oval,Windy,25.7,44.9,Cracked,Test,164.5,False,True,3.0,37.4,Balanced
+SCG,Rainy,34.8,48.0,Dusty,Test,469.4501180337202,False,False,4.340224193301143,32.86354569776761,High Runs
+SCG,Rainy,26.3,41.9,Dry,T20,371.9,True,False,2.2,46.6,Balanced
+Eden Gardens,Sunny,18.5,75.5,Green,T20,121.95204818055515,True,True,4.646134093409611,25.18485896852328,Low Runs
+SCG,Windy,15.8,88.2,Dusty,ODI,340.4,True,False,2.3,41.5,Balanced
+Eden Gardens,Cloudy,30.5,32.0,Cracked,Test,154.39032830115346,False,True,7.08466653766938,25.38686979586626,Low Runs
+Wankhede Stadium,Overcast,21.3,83.7,Green,Test,247.962083632795,True,True,4.915883590468605,29.52133622012257,Low Runs
+Adelaide Oval,Cloudy,28.8,82.7,Cracked,Test,243.4,False,False,4.2,11.3,Balanced
+SCG,Sunny,19.8,51.1,Cracked,T20,370.69495380129695,True,False,4.338368116617922,33.03468368116153,High Runs
+Adelaide Oval,Sunny,34.3,68.4,Cracked,ODI,227.9,True,False,3.7,32.6,Balanced
+Eden Gardens,Overcast,29.3,47.5,Cracked,Test,166.8,False,False,5.2,37.3,Balanced
+MCG,Windy,15.3,42.9,Green,Test,269.7,False,False,3.6,10.4,Balanced
+Adelaide Oval,Windy,25.2,78.4,Flat,T20,336.7,True,False,3.7,28.7,Balanced
+Eden Gardens,Cloudy,32.3,61.9,Dusty,T20,368.2,False,False,3.9,49.4,Balanced
+Wankhede Stadium,Windy,17.2,41.9,Dusty,ODI,293.3,False,True,3.1,43.8,Balanced
+Lords,Overcast,26.1,51.0,Dusty,Test,318.2600426133796,False,False,1.8271216827715575,-1.9025699518292054,High Runs
+Lords,Rainy,26.7,41.5,Dusty,T20,331.0,True,False,2.3,26.2,Balanced
+SCG,Cloudy,32.1,79.5,Dry,Test,337.3626906621516,False,False,3.196637970868947,18.511720561628366,High Runs
+Lords,Rainy,39.8,47.5,Cracked,ODI,160.4,False,False,3.9,27.9,Balanced
+MCG,Cloudy,30.9,85.4,Dusty,Test,176.44914928828746,False,True,5.248401323309089,26.09310812588476,Low Runs
+MCG,Overcast,18.1,77.1,Cracked,Test,378.8,True,False,3.3,12.8,Balanced
+Wankhede Stadium,Sunny,19.4,37.8,Green,Test,255.011419435375,False,False,3.675223943309974,37.987820890815755,High Runs
+Eden Gardens,Sunny,31.9,63.9,Cracked,Test,461.5542199102336,True,False,3.6786883357137174,16.29305553989475,High Runs
+SCG,Cloudy,25.3,81.0,Dry,Test,423.81748682719336,False,True,5.0402442928755224,21.72556838349834,High Runs
+Wankhede Stadium,Rainy,30.5,37.5,Cracked,Test,289.0,False,False,3.2,29.5,Balanced
+Lords,Overcast,39.9,39.5,Green,ODI,413.4017146744292,False,True,1.7146761203280407,6.707621059054709,High Runs
+SCG,Rainy,20.4,53.4,Green,T20,180.7,False,False,5.8,21.8,Balanced
+SCG,Overcast,21.1,57.1,Green,ODI,294.0104900202781,False,False,1.260224717385391,25.97444411594708,High Runs
+Wankhede Stadium,Windy,32.9,82.9,Flat,T20,234.6,False,True,2.8,43.4,Balanced
+SCG,Cloudy,17.9,50.6,Cracked,T20,161.5,True,True,5.8,25.1,Balanced
+SCG,Windy,28.4,86.7,Cracked,Test,166.0878713405503,True,True,5.342204752831206,24.847488612500904,Low Runs
+Eden Gardens,Windy,27.0,62.6,Flat,Test,426.9381354505828,True,True,1.7577714668432423,33.47668200279968,High Runs
+Wankhede Stadium,Sunny,23.4,41.6,Flat,T20,158.22192089592446,False,False,3.7943666925954815,31.931863432275883,Low Runs
+Adelaide Oval,Sunny,28.7,32.7,Dusty,T20,201.2,True,False,2.0,22.2,Balanced
+MCG,Sunny,38.0,72.6,Dry,ODI,246.9,True,False,4.7,31.9,Balanced
+Wankhede Stadium,Sunny,34.9,73.3,Cracked,ODI,153.5,False,False,4.7,43.1,Balanced
+Adelaide Oval,Rainy,21.9,61.6,Cracked,ODI,353.6346649293789,True,True,1.348554458047946,33.683632859768544,High Runs
+Lords,Cloudy,15.2,89.0,Dusty,Test,387.1064335844279,False,False,2.061285768276467,37.71187287160268,High Runs
+Lords,Sunny,32.3,51.1,Dusty,Test,287.4,False,False,2.5,25.5,Balanced
+Wankhede Stadium,Windy,36.9,77.5,Dry,T20,366.5111679510544,False,True,2.61116341133699,18.66054636596879,High Runs
+Eden Gardens,Windy,35.2,39.8,Flat,T20,295.9,True,True,3.0,45.7,Balanced
+Wankhede Stadium,Overcast,23.4,40.2,Green,ODI,315.334011000834,False,False,3.7593761341161667,16.048592231021757,High Runs
+Lords,Cloudy,15.0,47.7,Dry,ODI,268.9443551841898,False,True,2.4015342099053396,34.012181603554154,High Runs
+Wankhede Stadium,Overcast,28.3,30.7,Flat,T20,250.2,False,True,2.2,24.0,Balanced
+Wankhede Stadium,Rainy,16.9,72.3,Flat,Test,453.9779550299029,True,True,4.444408825385549,29.59857378063877,High Runs
+MCG,Overcast,18.3,77.1,Dusty,ODI,388.2,False,True,5.1,44.3,Balanced
+Eden Gardens,Cloudy,31.7,48.7,Dry,Test,182.8,False,False,3.0,12.8,Balanced
+Adelaide Oval,Cloudy,28.5,43.0,Dusty,T20,205.41231154575078,True,False,6.175645324199687,49.467400343922854,Low Runs
+MCG,Overcast,18.4,85.8,Dry,T20,167.89015681392326,True,True,7.091387136305114,43.38327071260606,Low Runs
+MCG,Rainy,33.6,79.7,Cracked,T20,469.336140130232,True,False,2.695122351628144,38.690209454050894,High Runs
+Adelaide Oval,Overcast,16.1,59.5,Dry,T20,344.1,True,False,3.4,46.9,Balanced
+MCG,Windy,18.6,75.5,Cracked,ODI,170.0,True,True,4.2,28.2,Balanced
+SCG,Cloudy,31.2,82.8,Dusty,Test,308.6,False,False,3.6,48.6,Balanced
+Adelaide Oval,Cloudy,17.2,61.8,Green,Test,290.03212408646374,True,False,2.498243755613415,24.368542739265813,High Runs
+SCG,Sunny,37.1,30.7,Cracked,Test,203.8,False,True,2.4,30.2,Balanced
+MCG,Overcast,29.9,43.5,Dry,ODI,351.6,True,True,4.3,25.1,Balanced
+Eden Gardens,Rainy,35.8,79.6,Green,ODI,164.5,True,False,3.1,19.1,Balanced
+Wankhede Stadium,Overcast,27.8,58.0,Dusty,ODI,365.7,True,False,4.3,18.5,Balanced
+Eden Gardens,Overcast,22.7,49.7,Flat,T20,197.8,False,True,2.3,41.8,Balanced
+MCG,Overcast,25.7,63.1,Cracked,ODI,288.1,True,True,3.7,31.0,Balanced
+Wankhede Stadium,Overcast,22.0,56.2,Cracked,T20,312.1829627867111,True,True,6.6708093261486585,34.56285418361142,Low Runs
+Lords,Sunny,30.9,80.7,Dry,ODI,430.79176732774636,True,False,2.221346019102465,23.904852193688512,High Runs
+Adelaide Oval,Overcast,20.2,76.5,Dry,Test,285.7,True,True,3.2,27.1,Balanced
+Adelaide Oval,Cloudy,28.2,40.2,Dusty,ODI,276.1800148398134,False,True,2.222098235183732,14.810101849750083,High Runs
+Adelaide Oval,Sunny,39.0,83.0,Flat,T20,228.7,False,False,4.6,28.0,Balanced
+Wankhede Stadium,Rainy,37.0,42.8,Green,T20,167.3,True,False,2.5,33.6,Balanced
+Eden Gardens,Rainy,23.1,33.2,Green,Test,173.2,True,True,3.6,20.8,Balanced
+SCG,Sunny,29.6,33.0,Green,Test,218.74163276889175,True,False,3.0650858336712394,32.86726662888013,High Runs
+Wankhede Stadium,Windy,24.3,50.1,Dusty,T20,349.8,True,False,3.5,31.1,Balanced
+Lords,Rainy,39.3,76.0,Flat,ODI,259.1,True,True,4.8,34.1,Balanced
+Adelaide Oval,Rainy,19.2,44.5,Green,T20,396.7,True,True,3.9,49.3,Balanced
+Eden Gardens,Rainy,34.6,84.3,Flat,T20,110.93215480144266,False,True,6.136194801408216,55.40567047864971,Low Runs
+Eden Gardens,Cloudy,18.2,43.0,Dusty,Test,137.96192021665874,False,True,3.658070993210544,60.96287743506408,Low Runs
+Eden Gardens,Sunny,15.3,45.5,Flat,T20,395.54760847070764,False,False,1.830354913815074,-0.5104421189031232,High Runs
+Wankhede Stadium,Sunny,27.9,46.7,Flat,Test,427.0520484839201,False,True,4.290905557875177,31.9236881230999,High Runs
+MCG,Sunny,21.4,34.8,Cracked,ODI,311.7,False,True,3.9,23.4,Balanced
+Eden Gardens,Cloudy,29.2,37.9,Green,ODI,132.6108839212181,False,False,4.841031595903272,34.98716360100401,Low Runs
+Wankhede Stadium,Sunny,37.4,49.5,Dusty,ODI,258.7,False,False,2.1,33.8,Balanced
+Lords,Sunny,24.2,47.1,Green,T20,201.74057712683515,True,False,6.139562857581302,25.05921967925059,Low Runs
+MCG,Windy,17.5,76.2,Cracked,T20,196.7,True,False,5.0,36.1,Balanced
+Adelaide Oval,Cloudy,15.8,38.9,Green,ODI,253.80466364059544,False,False,2.5584405288245473,19.313644956338308,High Runs
+Wankhede Stadium,Windy,29.9,51.0,Dry,T20,228.82445716420494,True,False,6.977947667258515,47.79483706016087,Low Runs
+SCG,Sunny,15.5,63.0,Green,T20,420.237414066926,True,True,3.253451993925001,30.38536837705929,High Runs
+Adelaide Oval,Overcast,23.3,73.0,Flat,Test,277.3162808117048,False,True,2.822990862099998,29.339294583471982,High Runs
+Wankhede Stadium,Sunny,36.9,54.5,Dry,ODI,188.9,True,True,2.8,16.1,Balanced
+SCG,Rainy,32.1,86.6,Flat,ODI,266.4874058822745,True,False,4.368782256393981,38.093663953205514,High Runs
+SCG,Rainy,29.2,57.0,Dusty,ODI,412.96587517521573,False,False,0.660205942321638,12.653567173287716,High Runs
+Lords,Sunny,22.0,71.2,Green,Test,159.4,False,False,5.8,43.1,Balanced
+Lords,Rainy,24.3,64.8,Cracked,ODI,461.7550672029165,False,False,2.6617279343977227,21.387959551201043,High Runs
+Wankhede Stadium,Cloudy,35.7,69.1,Dusty,T20,206.6,True,True,5.7,33.8,Balanced
+SCG,Cloudy,28.7,60.6,Green,ODI,249.6,True,True,3.3,45.1,Balanced
+Wankhede Stadium,Windy,28.0,63.6,Dusty,T20,254.5,True,False,4.5,22.9,Balanced
+Adelaide Oval,Overcast,36.1,41.2,Green,ODI,218.81961565847976,True,True,2.913674838628425,-3.8266672688455543,High Runs
+MCG,Windy,33.1,85.3,Cracked,ODI,126.91149143338595,False,False,4.475403101917094,50.372339892831405,Low Runs
+Lords,Windy,19.1,71.7,Dusty,ODI,455.1258423092352,True,False,3.5183308184560143,27.05522441814483,High Runs
+Lords,Rainy,31.8,58.0,Green,Test,237.2,False,True,5.7,19.1,Balanced
+SCG,Cloudy,23.8,83.2,Dusty,T20,387.8,False,False,5.6,21.6,Balanced
+Adelaide Oval,Windy,19.5,46.7,Cracked,T20,374.6,True,True,2.7,37.7,Balanced
+SCG,Overcast,29.8,44.9,Cracked,Test,232.9,True,False,5.9,27.4,Balanced
+SCG,Windy,25.8,37.0,Dry,ODI,296.7,False,True,5.1,32.6,Balanced
+Eden Gardens,Overcast,35.3,88.9,Green,ODI,245.7,True,False,5.0,25.4,Balanced
+Eden Gardens,Cloudy,34.8,30.8,Green,ODI,325.6708307978308,False,False,6.244524557638973,35.91654923178696,Low Runs
+Lords,Windy,19.4,67.6,Dry,Test,278.8,False,True,5.5,36.2,Balanced
+SCG,Cloudy,26.9,58.9,Dry,T20,197.0,True,True,5.3,31.6,Balanced
+Wankhede Stadium,Sunny,16.6,76.8,Dry,T20,300.07048246496527,True,False,4.683924362735566,4.057850772277311,High Runs
+Adelaide Oval,Windy,37.3,42.1,Dusty,Test,246.6,False,False,5.0,26.7,Balanced
+SCG,Windy,29.8,56.4,Dry,Test,183.6,True,True,2.4,37.9,Balanced
+Eden Gardens,Sunny,35.2,46.9,Flat,ODI,254.0,False,True,3.9,14.8,Balanced
+Lords,Windy,17.7,69.5,Dusty,T20,234.97531966282628,True,False,4.942974652001258,1.9615623159927527,High Runs
+Lords,Rainy,15.1,89.8,Flat,T20,385.0,False,True,5.5,29.2,Balanced
+Lords,Rainy,18.4,47.3,Dusty,ODI,328.37916039080994,True,False,3.2487877026611445,26.199391897271727,High Runs
+Eden Gardens,Sunny,17.3,75.7,Dusty,Test,252.8,True,True,5.7,23.6,Balanced
+Lords,Rainy,22.8,87.6,Green,Test,352.068049777017,False,False,4.437084976800955,10.233226045104345,High Runs
+Lords,Sunny,30.2,57.8,Dry,Test,235.1057320726392,True,False,5.6206408478430125,35.35005400590278,Low Runs
+MCG,Cloudy,24.8,84.2,Dusty,Test,370.2,False,True,3.3,39.6,Balanced
+Adelaide Oval,Rainy,37.7,64.9,Cracked,ODI,297.5,False,True,5.6,17.3,Balanced
+Eden Gardens,Rainy,24.6,68.5,Green,Test,311.1,False,True,3.5,35.0,Balanced
+Wankhede Stadium,Overcast,32.8,78.6,Dusty,Test,199.0,True,True,3.8,23.9,Balanced
+SCG,Overcast,34.6,30.0,Dusty,T20,262.6,True,False,5.5,15.7,Balanced
+Eden Gardens,Sunny,25.6,47.9,Dry,Test,379.3,True,True,2.5,21.3,Balanced
+Eden Gardens,Rainy,28.1,79.8,Green,T20,182.1,False,True,2.9,34.3,Balanced
+SCG,Overcast,15.7,71.2,Dusty,ODI,377.4,True,True,2.3,22.9,Balanced
+Adelaide Oval,Windy,32.8,34.8,Cracked,ODI,467.6947279444762,True,True,1.7082127230341402,14.79497637660571,High Runs
+Eden Gardens,Rainy,22.5,32.0,Dusty,Test,301.7,False,False,4.7,45.0,Balanced
+Lords,Cloudy,19.6,77.6,Green,ODI,352.24222439247,True,False,1.6083662299087993,39.02052822344322,High Runs
+SCG,Windy,17.1,32.9,Green,T20,219.1,True,True,5.7,12.6,Balanced
+Lords,Rainy,22.5,51.8,Dry,Test,208.8,False,True,4.2,49.1,Balanced
+Wankhede Stadium,Windy,23.9,80.6,Cracked,ODI,199.9,True,True,5.6,39.7,Balanced
+Wankhede Stadium,Rainy,23.2,76.1,Flat,T20,302.8522818559401,True,True,6.134224280662888,31.079412549824447,Low Runs
+Eden Gardens,Overcast,26.4,31.5,Flat,Test,388.7,True,False,5.7,15.9,Balanced
+MCG,Cloudy,34.9,44.5,Cracked,Test,361.2,False,False,2.4,46.0,Balanced
